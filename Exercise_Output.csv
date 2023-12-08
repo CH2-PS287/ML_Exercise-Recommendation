@@ -1,0 +1,2481 @@
+,Mean_Calories,label,activity
+0,646.5,61,"Cycling, mountain bike, bmx"
+1,64603.5,61,"Cycling, mountain bike, bmx"
+2,64681.5,61,"Cycling, mountain bike, bmx"
+3,64600.25,61,"Cycling, mountain bike, bmx"
+4,64671.5,61,"Cycling, mountain bike, bmx"
+5,51181.25,61,"Cycling, mountain bike, bmx"
+6,64619.5,61,"Cycling, mountain bike, bmx"
+7,46906.25,61,"Cycling, mountain bike, bmx"
+8,31215.0,61,"Cycling, mountain bike, bmx"
+9,53332.25,61,"Cycling, mountain bike, bmx"
+10,304.0,59,"Cycling, <10 mph, leisure bicycling"
+11,30374.5,59,"Cycling, <10 mph, leisure bicycling"
+12,25075.5,59,"Cycling, <10 mph, leisure bicycling"
+13,24073.5,59,"Cycling, <10 mph, leisure bicycling"
+14,25122.0,59,"Cycling, <10 mph, leisure bicycling"
+15,25064.75,59,"Cycling, <10 mph, leisure bicycling"
+16,30408.5,59,"Cycling, <10 mph, leisure bicycling"
+17,14677.5,59,"Cycling, <10 mph, leisure bicycling"
+18,30369.5,59,"Cycling, <10 mph, leisure bicycling"
+19,30414.0,59,"Cycling, <10 mph, leisure bicycling"
+20,1216.75,60,"Cycling, >20 mph, racing"
+21,121692.25,60,"Cycling, >20 mph, racing"
+22,121704.75,60,"Cycling, >20 mph, racing"
+23,121657.25,60,"Cycling, >20 mph, racing"
+24,121671.5,60,"Cycling, >20 mph, racing"
+25,96349.0,60,"Cycling, >20 mph, racing"
+26,121650.25,60,"Cycling, >20 mph, racing"
+27,121648.5,60,"Cycling, >20 mph, racing"
+28,121678.5,60,"Cycling, >20 mph, racing"
+29,92263.0,60,"Cycling, >20 mph, racing"
+30,456.0,55,"Cycling, 10-11.9 mph, light"
+31,34601.75,55,"Cycling, 10-11.9 mph, light"
+32,45632.0,55,"Cycling, 10-11.9 mph, light"
+33,45607.5,55,"Cycling, 10-11.9 mph, light"
+34,45599.0,55,"Cycling, 10-11.9 mph, light"
+35,45583.75,55,"Cycling, 10-11.9 mph, light"
+36,45620.25,55,"Cycling, 10-11.9 mph, light"
+37,37641.0,55,"Cycling, 10-11.9 mph, light"
+38,34555.75,55,"Cycling, 10-11.9 mph, light"
+39,37637.75,55,"Cycling, 10-11.9 mph, light"
+40,608.5,56,"Cycling, 12-13.9 mph, moderate"
+41,37588.25,56,"Cycling, 12-13.9 mph, moderate"
+42,60859.0,56,"Cycling, 12-13.9 mph, moderate"
+43,31437.25,56,"Cycling, 12-13.9 mph, moderate"
+44,60847.25,56,"Cycling, 12-13.9 mph, moderate"
+45,60870.0,56,"Cycling, 12-13.9 mph, moderate"
+46,44073.25,56,"Cycling, 12-13.9 mph, moderate"
+47,60875.25,56,"Cycling, 12-13.9 mph, moderate"
+48,60824.0,56,"Cycling, 12-13.9 mph, moderate"
+49,60879.75,56,"Cycling, 12-13.9 mph, moderate"
+50,760.5,57,"Cycling, 14-15.9 mph, vigorous"
+51,76066.0,57,"Cycling, 14-15.9 mph, vigorous"
+52,76050.0,57,"Cycling, 14-15.9 mph, vigorous"
+53,76025.75,57,"Cycling, 14-15.9 mph, vigorous"
+54,57690.5,57,"Cycling, 14-15.9 mph, vigorous"
+55,76117.5,57,"Cycling, 14-15.9 mph, vigorous"
+56,55140.75,57,"Cycling, 14-15.9 mph, vigorous"
+57,76067.75,57,"Cycling, 14-15.9 mph, vigorous"
+58,76060.75,57,"Cycling, 14-15.9 mph, vigorous"
+59,76064.0,57,"Cycling, 14-15.9 mph, vigorous"
+60,912.5,58,"Cycling, 16-19 mph, very fast, racing"
+61,69164.5,58,"Cycling, 16-19 mph, very fast, racing"
+62,91306.25,58,"Cycling, 16-19 mph, very fast, racing"
+63,91195.5,58,"Cycling, 16-19 mph, very fast, racing"
+64,91254.0,58,"Cycling, 16-19 mph, very fast, racing"
+65,91279.25,58,"Cycling, 16-19 mph, very fast, racing"
+66,91232.25,58,"Cycling, 16-19 mph, very fast, racing"
+67,69190.25,58,"Cycling, 16-19 mph, very fast, racing"
+68,91274.5,58,"Cycling, 16-19 mph, very fast, racing"
+69,91284.5,58,"Cycling, 16-19 mph, very fast, racing"
+70,380.25,215,Unicycling
+71,28840.0,215,Unicycling
+72,38027.0,215,Unicycling
+73,38044.0,215,Unicycling
+74,23491.75,215,Unicycling
+75,38045.75,215,Unicycling
+76,30109.25,215,Unicycling
+77,38026.5,215,Unicycling
+78,38026.0,215,Unicycling
+79,38013.5,215,Unicycling
+80,228.0,190,"Stationary cycling, very light"
+81,22797.25,190,"Stationary cycling, very light"
+82,22774.75,190,"Stationary cycling, very light"
+83,17291.5,190,"Stationary cycling, very light"
+84,22777.25,190,"Stationary cycling, very light"
+85,22809.5,190,"Stationary cycling, very light"
+86,17286.0,190,"Stationary cycling, very light"
+87,17256.25,190,"Stationary cycling, very light"
+88,22806.5,190,"Stationary cycling, very light"
+89,22771.75,190,"Stationary cycling, very light"
+90,418.25,188,"Stationary cycling, light"
+91,31703.75,188,"Stationary cycling, light"
+92,41820.75,188,"Stationary cycling, light"
+93,33153.25,188,"Stationary cycling, light"
+94,41823.0,188,"Stationary cycling, light"
+95,41833.5,188,"Stationary cycling, light"
+96,31730.75,188,"Stationary cycling, light"
+97,41815.25,188,"Stationary cycling, light"
+98,41908.0,188,"Stationary cycling, light"
+99,41786.75,188,"Stationary cycling, light"
+100,532.25,189,"Stationary cycling, moderate"
+101,43889.25,189,"Stationary cycling, moderate"
+102,53227.0,189,"Stationary cycling, moderate"
+103,53197.0,189,"Stationary cycling, moderate"
+104,53249.25,189,"Stationary cycling, moderate"
+105,53195.75,189,"Stationary cycling, moderate"
+106,53223.5,189,"Stationary cycling, moderate"
+107,53247.25,189,"Stationary cycling, moderate"
+108,53225.75,189,"Stationary cycling, moderate"
+109,53223.25,189,"Stationary cycling, moderate"
+110,798.5,192,"Stationary cycling, vigorous"
+111,63220.75,192,"Stationary cycling, vigorous"
+112,63249.25,192,"Stationary cycling, vigorous"
+113,60554.5,192,"Stationary cycling, vigorous"
+114,79835.5,192,"Stationary cycling, vigorous"
+115,79883.75,192,"Stationary cycling, vigorous"
+116,79852.25,192,"Stationary cycling, vigorous"
+117,38565.25,192,"Stationary cycling, vigorous"
+118,60516.25,192,"Stationary cycling, vigorous"
+119,43952.75,192,"Stationary cycling, vigorous"
+120,950.75,191,"Stationary cycling, very vigorous"
+121,49143.25,191,"Stationary cycling, very vigorous"
+122,95108.25,191,"Stationary cycling, very vigorous"
+123,95075.75,191,"Stationary cycling, very vigorous"
+124,58671.25,191,"Stationary cycling, very vigorous"
+125,78474.25,191,"Stationary cycling, very vigorous"
+126,68916.75,191,"Stationary cycling, very vigorous"
+127,45953.5,191,"Stationary cycling, very vigorous"
+128,95065.0,191,"Stationary cycling, very vigorous"
+129,95059.75,191,"Stationary cycling, very vigorous"
+130,608.5,24,"Calisthenics, vigorous, pushups, situps…"
+131,60862.25,24,"Calisthenics, vigorous, pushups, situps…"
+132,60840.25,24,"Calisthenics, vigorous, pushups, situps…"
+133,60860.25,24,"Calisthenics, vigorous, pushups, situps…"
+134,33433.25,24,"Calisthenics, vigorous, pushups, situps…"
+135,44091.5,24,"Calisthenics, vigorous, pushups, situps…"
+136,60871.25,24,"Calisthenics, vigorous, pushups, situps…"
+137,60852.0,24,"Calisthenics, vigorous, pushups, situps…"
+138,60828.5,24,"Calisthenics, vigorous, pushups, situps…"
+139,60793.0,24,"Calisthenics, vigorous, pushups, situps…"
+140,266.25,23,"Calisthenics, light"
+141,19311.0,23,"Calisthenics, light"
+142,26677.5,23,"Calisthenics, light"
+143,26592.25,23,"Calisthenics, light"
+144,21092.5,23,"Calisthenics, light"
+145,26645.75,23,"Calisthenics, light"
+146,21943.0,23,"Calisthenics, light"
+147,19298.75,23,"Calisthenics, light"
+148,19318.5,23,"Calisthenics, light"
+149,26628.75,23,"Calisthenics, light"
+150,608.5,38,"Circuit training, minimal rest"
+151,48207.0,38,"Circuit training, minimal rest"
+152,60824.25,38,"Circuit training, minimal rest"
+153,33488.75,38,"Circuit training, minimal rest"
+154,60880.0,38,"Circuit training, minimal rest"
+155,46120.0,38,"Circuit training, minimal rest"
+156,60871.25,38,"Circuit training, minimal rest"
+157,60838.0,38,"Circuit training, minimal rest"
+158,60901.5,38,"Circuit training, minimal rest"
+159,60832.25,38,"Circuit training, minimal rest"
+160,456.0,243,"Weight lifting, body building, vigorous"
+161,45639.0,243,"Weight lifting, body building, vigorous"
+162,45577.25,243,"Weight lifting, body building, vigorous"
+163,37662.75,243,"Weight lifting, body building, vigorous"
+164,45621.25,243,"Weight lifting, body building, vigorous"
+165,45600.25,243,"Weight lifting, body building, vigorous"
+166,45632.25,243,"Weight lifting, body building, vigorous"
+167,45598.0,243,"Weight lifting, body building, vigorous"
+168,45585.5,243,"Weight lifting, body building, vigorous"
+169,45575.25,243,"Weight lifting, body building, vigorous"
+170,228.0,244,"Weight lifting, light workout"
+171,22834.0,244,"Weight lifting, light workout"
+172,22812.25,244,"Weight lifting, light workout"
+173,22799.5,244,"Weight lifting, light workout"
+174,16502.5,244,"Weight lifting, light workout"
+175,22773.0,244,"Weight lifting, light workout"
+176,22780.5,244,"Weight lifting, light workout"
+177,22791.5,244,"Weight lifting, light workout"
+178,22807.5,244,"Weight lifting, light workout"
+179,16522.75,244,"Weight lifting, light workout"
+180,418.25,85,Health club exercise
+181,41863.25,85,Health club exercise
+182,41823.0,85,Health club exercise
+183,41844.25,85,Health club exercise
+184,33142.75,85,Health club exercise
+185,41859.25,85,Health club exercise
+186,41793.75,85,Health club exercise
+187,31724.0,85,Health club exercise
+188,41845.75,85,Health club exercise
+189,41843.25,85,Health club exercise
+190,684.25,186,Stair machine
+191,68414.75,186,Stair machine
+192,68354.0,186,Stair machine
+193,56510.25,186,Stair machine
+194,68380.25,186,Stair machine
+195,68461.5,186,Stair machine
+196,54191.25,186,Stair machine
+197,68462.5,186,Stair machine
+198,68359.5,186,Stair machine
+199,68369.25,186,Stair machine
+200,266.25,141,"Rowing machine, light"
+201,19289.5,141,"Rowing machine, light"
+202,26646.5,141,"Rowing machine, light"
+203,10010.0,141,"Rowing machine, light"
+204,21936.5,141,"Rowing machine, light"
+205,26637.75,141,"Rowing machine, light"
+206,21103.75,141,"Rowing machine, light"
+207,26655.75,141,"Rowing machine, light"
+208,26605.75,141,"Rowing machine, light"
+209,13750.25,141,"Rowing machine, light"
+210,532.25,142,"Rowing machine, moderate"
+211,53168.75,142,"Rowing machine, moderate"
+212,53209.25,142,"Rowing machine, moderate"
+213,53193.5,142,"Rowing machine, moderate"
+214,53218.25,142,"Rowing machine, moderate"
+215,27489.0,142,"Rowing machine, moderate"
+216,43945.0,142,"Rowing machine, moderate"
+217,53260.75,142,"Rowing machine, moderate"
+218,53217.0,142,"Rowing machine, moderate"
+219,53199.75,142,"Rowing machine, moderate"
+220,646.5,144,"Rowing machine, vigorous"
+221,49030.5,144,"Rowing machine, vigorous"
+222,46865.75,144,"Rowing machine, vigorous"
+223,64608.0,144,"Rowing machine, vigorous"
+224,64607.0,144,"Rowing machine, vigorous"
+225,64712.25,144,"Rowing machine, vigorous"
+226,64653.75,144,"Rowing machine, vigorous"
+227,64659.5,144,"Rowing machine, vigorous"
+228,46867.0,144,"Rowing machine, vigorous"
+229,64684.0,144,"Rowing machine, vigorous"
+230,912.5,143,"Rowing machine, very vigorous"
+231,91201.5,143,"Rowing machine, very vigorous"
+232,91251.5,143,"Rowing machine, very vigorous"
+233,91249.0,143,"Rowing machine, very vigorous"
+234,91269.5,143,"Rowing machine, very vigorous"
+235,72274.0,143,"Rowing machine, very vigorous"
+236,91289.5,143,"Rowing machine, very vigorous"
+237,69228.5,143,"Rowing machine, very vigorous"
+238,91214.5,143,"Rowing machine, very vigorous"
+239,91288.25,143,"Rowing machine, very vigorous"
+240,532.25,168,Ski machine
+241,53145.0,168,Ski machine
+242,40308.0,168,Ski machine
+243,53260.5,168,Ski machine
+244,53195.0,168,Ski machine
+245,53235.5,168,Ski machine
+246,53240.0,168,Ski machine
+247,53247.25,168,Ski machine
+248,53209.0,168,Ski machine
+249,53218.75,168,Ski machine
+250,380.25,2,"Aerobics, low impact"
+251,38069.0,2,"Aerobics, low impact"
+252,38026.25,2,"Aerobics, low impact"
+253,38006.5,2,"Aerobics, low impact"
+254,27582.0,2,"Aerobics, low impact"
+255,27575.0,2,"Aerobics, low impact"
+256,28811.5,2,"Aerobics, low impact"
+257,30105.75,2,"Aerobics, low impact"
+258,38035.0,2,"Aerobics, low impact"
+259,38043.25,2,"Aerobics, low impact"
+260,532.25,1,"Aerobics, high impact"
+261,53179.5,1,"Aerobics, high impact"
+262,53232.75,1,"Aerobics, high impact"
+263,53193.0,1,"Aerobics, high impact"
+264,53215.0,1,"Aerobics, high impact"
+265,53278.5,1,"Aerobics, high impact"
+266,38554.75,1,"Aerobics, high impact"
+267,53221.0,1,"Aerobics, high impact"
+268,53224.75,1,"Aerobics, high impact"
+269,53176.5,1,"Aerobics, high impact"
+270,646.5,3,"Aerobics, step aerobics"
+271,53366.25,3,"Aerobics, step aerobics"
+272,46848.5,3,"Aerobics, step aerobics"
+273,46814.5,3,"Aerobics, step aerobics"
+274,49005.5,3,"Aerobics, step aerobics"
+275,53359.5,3,"Aerobics, step aerobics"
+276,64665.75,3,"Aerobics, step aerobics"
+277,53361.5,3,"Aerobics, step aerobics"
+278,64615.75,3,"Aerobics, step aerobics"
+279,64673.25,3,"Aerobics, step aerobics"
+280,494.25,0,"Aerobics, general"
+281,49411.0,0,"Aerobics, general"
+282,49429.25,0,"Aerobics, general"
+283,35841.25,0,"Aerobics, general"
+284,37486.25,0,"Aerobics, general"
+285,49411.25,0,"Aerobics, general"
+286,49416.0,0,"Aerobics, general"
+287,35821.5,0,"Aerobics, general"
+288,25554.0,0,"Aerobics, general"
+289,30520.5,0,"Aerobics, general"
+290,456.0,101,Jazzercise
+291,45576.5,101,Jazzercise
+292,34606.25,101,Jazzercise
+293,45595.5,101,Jazzercise
+294,36108.5,101,Jazzercise
+295,45560.75,101,Jazzercise
+296,45580.0,101,Jazzercise
+297,45636.5,101,Jazzercise
+298,45555.75,101,Jazzercise
+299,45588.0,101,Jazzercise
+300,304.0,193,"Stretching, hatha yoga"
+301,18775.25,193,"Stretching, hatha yoga"
+302,30384.0,193,"Stretching, hatha yoga"
+303,30402.5,193,"Stretching, hatha yoga"
+304,30351.75,193,"Stretching, hatha yoga"
+305,15732.0,193,"Stretching, hatha yoga"
+306,30410.5,193,"Stretching, hatha yoga"
+307,30439.25,193,"Stretching, hatha yoga"
+308,25130.5,193,"Stretching, hatha yoga"
+309,30418.75,193,"Stretching, hatha yoga"
+310,190.25,115,Mild stretching
+311,19048.75,115,Mild stretching
+312,19023.0,115,Mild stretching
+313,19036.5,115,Mild stretching
+314,19040.75,115,Mild stretching
+315,15738.0,115,Mild stretching
+316,13840.0,115,Mild stretching
+317,19022.0,115,Mild stretching
+318,19046.25,115,Mild stretching
+319,15001.75,115,Mild stretching
+320,456.0,99,Instructing aerobic class
+321,45608.75,99,Instructing aerobic class
+322,45566.75,99,Instructing aerobic class
+323,45593.5,99,Instructing aerobic class
+324,45616.0,99,Instructing aerobic class
+325,36119.0,99,Instructing aerobic class
+326,45560.25,99,Instructing aerobic class
+327,33014.0,99,Instructing aerobic class
+328,34546.75,99,Instructing aerobic class
+329,45572.5,99,Instructing aerobic class
+330,304.0,236,Water aerobics
+331,22055.0,236,Water aerobics
+332,30429.5,236,Water aerobics
+333,30418.25,236,Water aerobics
+334,22032.0,236,Water aerobics
+335,30375.0,236,Water aerobics
+336,23022.75,236,Water aerobics
+337,24087.5,236,Water aerobics
+338,22035.75,236,Water aerobics
+339,30362.25,236,Water aerobics
+340,342.5,8,"Ballet, twist, jazz, tap"
+341,34275.75,8,"Ballet, twist, jazz, tap"
+342,34269.5,8,"Ballet, twist, jazz, tap"
+343,27083.75,8,"Ballet, twist, jazz, tap"
+344,34298.75,8,"Ballet, twist, jazz, tap"
+345,34273.0,8,"Ballet, twist, jazz, tap"
+346,34275.5,8,"Ballet, twist, jazz, tap"
+347,34230.25,8,"Ballet, twist, jazz, tap"
+348,34266.25,8,"Ballet, twist, jazz, tap"
+349,34232.25,8,"Ballet, twist, jazz, tap"
+350,228.0,10,"Ballroom dancing, slow"
+351,22833.0,10,"Ballroom dancing, slow"
+352,22805.25,10,"Ballroom dancing, slow"
+353,22787.5,10,"Ballroom dancing, slow"
+354,22814.0,10,"Ballroom dancing, slow"
+355,22828.5,10,"Ballroom dancing, slow"
+356,22776.0,10,"Ballroom dancing, slow"
+357,22813.75,10,"Ballroom dancing, slow"
+358,22811.5,10,"Ballroom dancing, slow"
+359,22793.25,10,"Ballroom dancing, slow"
+360,418.25,9,"Ballroom dancing, fast"
+361,30349.25,9,"Ballroom dancing, fast"
+362,41810.75,9,"Ballroom dancing, fast"
+363,41813.0,9,"Ballroom dancing, fast"
+364,41834.25,9,"Ballroom dancing, fast"
+365,41823.25,9,"Ballroom dancing, fast"
+366,41851.0,9,"Ballroom dancing, fast"
+367,21596.75,9,"Ballroom dancing, fast"
+368,41778.25,9,"Ballroom dancing, fast"
+369,41793.5,9,"Ballroom dancing, fast"
+370,608.5,148,"Running, 5 mph (12 minute mile)"
+371,33465.75,148,"Running, 5 mph (12 minute mile)"
+372,33491.0,148,"Running, 5 mph (12 minute mile)"
+373,60826.25,148,"Running, 5 mph (12 minute mile)"
+374,48212.5,148,"Running, 5 mph (12 minute mile)"
+375,37540.5,148,"Running, 5 mph (12 minute mile)"
+376,60849.5,148,"Running, 5 mph (12 minute mile)"
+377,60893.0,148,"Running, 5 mph (12 minute mile)"
+378,60863.5,148,"Running, 5 mph (12 minute mile)"
+379,37530.25,148,"Running, 5 mph (12 minute mile)"
+380,684.25,149,"Running, 5.2 mph (11.5 minute mile)"
+381,68476.25,149,"Running, 5.2 mph (11.5 minute mile)"
+382,68448.25,149,"Running, 5.2 mph (11.5 minute mile)"
+383,68485.25,149,"Running, 5.2 mph (11.5 minute mile)"
+384,68419.75,149,"Running, 5.2 mph (11.5 minute mile)"
+385,49592.25,149,"Running, 5.2 mph (11.5 minute mile)"
+386,56432.0,149,"Running, 5.2 mph (11.5 minute mile)"
+387,56458.0,149,"Running, 5.2 mph (11.5 minute mile)"
+388,68398.5,149,"Running, 5.2 mph (11.5 minute mile)"
+389,51871.0,149,"Running, 5.2 mph (11.5 minute mile)"
+390,760.5,150,"Running, 6 mph (10 min mile)"
+391,76062.25,150,"Running, 6 mph (10 min mile)"
+392,62786.75,150,"Running, 6 mph (10 min mile)"
+393,76053.0,150,"Running, 6 mph (10 min mile)"
+394,76017.0,150,"Running, 6 mph (10 min mile)"
+395,76127.75,150,"Running, 6 mph (10 min mile)"
+396,46933.5,150,"Running, 6 mph (10 min mile)"
+397,76056.0,150,"Running, 6 mph (10 min mile)"
+398,76021.75,150,"Running, 6 mph (10 min mile)"
+399,62737.5,150,"Running, 6 mph (10 min mile)"
+400,836.5,151,"Running, 6.7 mph (9 min mile)"
+401,60611.75,151,"Running, 6.7 mph (9 min mile)"
+402,45981.75,151,"Running, 6.7 mph (9 min mile)"
+403,83643.25,151,"Running, 6.7 mph (9 min mile)"
+404,63436.25,151,"Running, 6.7 mph (9 min mile)"
+405,83703.0,151,"Running, 6.7 mph (9 min mile)"
+406,66261.25,151,"Running, 6.7 mph (9 min mile)"
+407,83625.75,151,"Running, 6.7 mph (9 min mile)"
+408,83665.25,151,"Running, 6.7 mph (9 min mile)"
+409,83642.75,151,"Running, 6.7 mph (9 min mile)"
+410,874.5,152,"Running, 7 mph (8.5 min mile)"
+411,87472.5,152,"Running, 7 mph (8.5 min mile)"
+412,72173.25,152,"Running, 7 mph (8.5 min mile)"
+413,63359.0,152,"Running, 7 mph (8.5 min mile)"
+414,87439.5,152,"Running, 7 mph (8.5 min mile)"
+415,87429.25,152,"Running, 7 mph (8.5 min mile)"
+416,87443.5,152,"Running, 7 mph (8.5 min mile)"
+417,72176.25,152,"Running, 7 mph (8.5 min mile)"
+418,87439.75,152,"Running, 7 mph (8.5 min mile)"
+419,87465.0,152,"Running, 7 mph (8.5 min mile)"
+420,950.75,153,"Running, 7.5mph (8 min mile)"
+421,95044.75,153,"Running, 7.5mph (8 min mile)"
+422,95097.25,153,"Running, 7.5mph (8 min mile)"
+423,95072.25,153,"Running, 7.5mph (8 min mile)"
+424,52296.75,153,"Running, 7.5mph (8 min mile)"
+425,95092.25,153,"Running, 7.5mph (8 min mile)"
+426,75309.5,153,"Running, 7.5mph (8 min mile)"
+427,95068.5,153,"Running, 7.5mph (8 min mile)"
+428,75291.5,153,"Running, 7.5mph (8 min mile)"
+429,95089.5,153,"Running, 7.5mph (8 min mile)"
+430,1026.5,154,"Running, 8 mph (7.5 min mile)"
+431,77869.75,154,"Running, 8 mph (7.5 min mile)"
+432,74398.75,154,"Running, 8 mph (7.5 min mile)"
+433,102678.0,154,"Running, 8 mph (7.5 min mile)"
+434,102615.25,154,"Running, 8 mph (7.5 min mile)"
+435,102694.5,154,"Running, 8 mph (7.5 min mile)"
+436,84684.5,154,"Running, 8 mph (7.5 min mile)"
+437,102628.25,154,"Running, 8 mph (7.5 min mile)"
+438,102729.75,154,"Running, 8 mph (7.5 min mile)"
+439,77831.25,154,"Running, 8 mph (7.5 min mile)"
+440,1064.5,155,"Running, 8.6 mph (7 min mile)"
+441,106440.25,155,"Running, 8.6 mph (7 min mile)"
+442,80696.75,155,"Running, 8.6 mph (7 min mile)"
+443,106455.5,155,"Running, 8.6 mph (7 min mile)"
+444,77120.0,155,"Running, 8.6 mph (7 min mile)"
+445,87898.0,155,"Running, 8.6 mph (7 min mile)"
+446,54980.0,155,"Running, 8.6 mph (7 min mile)"
+447,106442.75,155,"Running, 8.6 mph (7 min mile)"
+448,87853.5,155,"Running, 8.6 mph (7 min mile)"
+449,106495.5,155,"Running, 8.6 mph (7 min mile)"
+450,1140.75,156,"Running, 9 mph (6.5 min mile)"
+451,114064.75,156,"Running, 9 mph (6.5 min mile)"
+452,94210.75,156,"Running, 9 mph (6.5 min mile)"
+453,114063.75,156,"Running, 9 mph (6.5 min mile)"
+454,114075.25,156,"Running, 9 mph (6.5 min mile)"
+455,114090.5,156,"Running, 9 mph (6.5 min mile)"
+456,114163.0,156,"Running, 9 mph (6.5 min mile)"
+457,82661.5,156,"Running, 9 mph (6.5 min mile)"
+458,114056.25,156,"Running, 9 mph (6.5 min mile)"
+459,114125.5,156,"Running, 9 mph (6.5 min mile)"
+460,1216.75,146,"Running, 10 mph (6 min mile)"
+461,96362.0,146,"Running, 10 mph (6 min mile)"
+462,58742.25,146,"Running, 10 mph (6 min mile)"
+463,88187.25,146,"Running, 10 mph (6 min mile)"
+464,121673.25,146,"Running, 10 mph (6 min mile)"
+465,66865.0,146,"Running, 10 mph (6 min mile)"
+466,121693.5,146,"Running, 10 mph (6 min mile)"
+467,100413.25,146,"Running, 10 mph (6 min mile)"
+468,121645.5,146,"Running, 10 mph (6 min mile)"
+469,96306.0,146,"Running, 10 mph (6 min mile)"
+470,1368.75,147,"Running, 10.9 mph (5.5 min mile)"
+471,136881.0,147,"Running, 10.9 mph (5.5 min mile)"
+472,136915.75,147,"Running, 10.9 mph (5.5 min mile)"
+473,136884.25,147,"Running, 10.9 mph (5.5 min mile)"
+474,136828.5,147,"Running, 10.9 mph (5.5 min mile)"
+475,136830.0,147,"Running, 10.9 mph (5.5 min mile)"
+476,84463.75,147,"Running, 10.9 mph (5.5 min mile)"
+477,136867.75,147,"Running, 10.9 mph (5.5 min mile)"
+478,108357.25,147,"Running, 10.9 mph (5.5 min mile)"
+479,99195.75,147,"Running, 10.9 mph (5.5 min mile)"
+480,684.25,157,"Running, cross country"
+481,68430.5,157,"Running, cross country"
+482,56436.75,157,"Running, cross country"
+483,56469.5,157,"Running, cross country"
+484,68456.0,157,"Running, cross country"
+485,68438.25,157,"Running, cross country"
+486,68449.25,157,"Running, cross country"
+487,68420.0,157,"Running, cross country"
+488,68386.75,157,"Running, cross country"
+489,68385.5,157,"Running, cross country"
+490,608.5,158,"Running, general"
+491,60863.25,158,"Running, general"
+492,60881.75,158,"Running, general"
+493,60850.5,158,"Running, general"
+494,60838.75,158,"Running, general"
+495,60868.25,158,"Running, general"
+496,60844.0,158,"Running, general"
+497,60862.25,158,"Running, general"
+498,60812.0,158,"Running, general"
+499,60873.25,158,"Running, general"
+500,760.5,159,"Running, on a track, team practice"
+501,76091.5,159,"Running, on a track, team practice"
+502,60200.0,159,"Running, on a track, team practice"
+503,76009.75,159,"Running, on a track, team practice"
+504,76037.25,159,"Running, on a track, team practice"
+505,60171.0,159,"Running, on a track, team practice"
+506,76072.5,159,"Running, on a track, team practice"
+507,76049.5,159,"Running, on a track, team practice"
+508,76094.5,159,"Running, on a track, team practice"
+509,76006.75,159,"Running, on a track, team practice"
+510,1140.75,160,"Running, stairs, up"
+511,94160.5,160,"Running, stairs, up"
+512,90345.25,160,"Running, stairs, up"
+513,94223.5,160,"Running, stairs, up"
+514,114062.75,160,"Running, stairs, up"
+515,114086.25,160,"Running, stairs, up"
+516,86482.75,160,"Running, stairs, up"
+517,114100.75,160,"Running, stairs, up"
+518,86480.25,160,"Running, stairs, up"
+519,114046.0,160,"Running, stairs, up"
+520,304.0,213,"Track and field (shot, discus)"
+521,23068.25,213,"Track and field (shot, discus)"
+522,24073.25,213,"Track and field (shot, discus)"
+523,22042.0,213,"Track and field (shot, discus)"
+524,25067.0,213,"Track and field (shot, discus)"
+525,24111.25,213,"Track and field (shot, discus)"
+526,24071.25,213,"Track and field (shot, discus)"
+527,30398.75,213,"Track and field (shot, discus)"
+528,30359.0,213,"Track and field (shot, discus)"
+529,14667.0,213,"Track and field (shot, discus)"
+530,456.0,211,"Track and field (high jump, pole vault)"
+531,36109.0,211,"Track and field (high jump, pole vault)"
+532,45570.0,211,"Track and field (high jump, pole vault)"
+533,45611.5,211,"Track and field (high jump, pole vault)"
+534,45602.0,211,"Track and field (high jump, pole vault)"
+535,45592.0,211,"Track and field (high jump, pole vault)"
+536,36109.5,211,"Track and field (high jump, pole vault)"
+537,34569.0,211,"Track and field (high jump, pole vault)"
+538,36123.0,211,"Track and field (high jump, pole vault)"
+539,45591.5,211,"Track and field (high jump, pole vault)"
+540,760.5,212,Track and field (hurdles)
+541,62745.25,212,Track and field (hurdles)
+542,76023.0,212,Track and field (hurdles)
+543,76057.75,212,Track and field (hurdles)
+544,60211.0,212,Track and field (hurdles)
+545,76018.75,212,Track and field (hurdles)
+546,76048.75,212,Track and field (hurdles)
+547,76084.75,212,Track and field (hurdles)
+548,76047.0,212,Track and field (hurdles)
+549,76070.25,212,Track and field (hurdles)
+550,266.25,4,Archery
+551,21129.25,4,Archery
+552,26584.5,4,Archery
+553,26636.5,4,Archery
+554,26641.0,4,Archery
+555,19283.0,4,Archery
+556,20206.25,4,Archery
+557,26680.25,4,Archery
+558,26659.5,4,Archery
+559,21969.25,4,Archery
+560,342.5,6,Badminton
+561,34262.25,6,Badminton
+562,24863.25,6,Badminton
+563,25962.75,6,Badminton
+564,34231.5,6,Badminton
+565,25995.25,6,Badminton
+566,34240.5,6,Badminton
+567,34240.75,6,Badminton
+568,34268.25,6,Badminton
+569,34193.75,6,Badminton
+570,608.5,11,"Basketball game, competitive"
+571,60884.0,11,"Basketball game, competitive"
+572,46131.75,11,"Basketball game, competitive"
+573,60876.25,11,"Basketball game, competitive"
+574,46123.5,11,"Basketball game, competitive"
+575,60857.75,11,"Basketball game, competitive"
+576,60818.75,11,"Basketball game, competitive"
+577,48198.0,11,"Basketball game, competitive"
+578,60843.25,11,"Basketball game, competitive"
+579,60828.5,11,"Basketball game, competitive"
+580,456.0,122,"Playing basketball, non game"
+581,32982.75,122,"Playing basketball, non game"
+582,45614.0,122,"Playing basketball, non game"
+583,26621.0,122,"Playing basketball, non game"
+584,45584.0,122,"Playing basketball, non game"
+585,33055.5,122,"Playing basketball, non game"
+586,45592.5,122,"Playing basketball, non game"
+587,45600.0,122,"Playing basketball, non game"
+588,25048.25,122,"Playing basketball, non game"
+589,45633.0,122,"Playing basketball, non game"
+590,532.25,12,"Basketball, officiating"
+591,53218.0,12,"Basketball, officiating"
+592,40352.5,12,"Basketball, officiating"
+593,53183.5,12,"Basketball, officiating"
+594,53201.0,12,"Basketball, officiating"
+595,53263.5,12,"Basketball, officiating"
+596,40411.0,12,"Basketball, officiating"
+597,53250.5,12,"Basketball, officiating"
+598,43922.75,12,"Basketball, officiating"
+599,53226.75,12,"Basketball, officiating"
+600,342.5,13,"Basketball, shooting baskets"
+601,34196.0,13,"Basketball, shooting baskets"
+602,34217.25,13,"Basketball, shooting baskets"
+603,34248.25,13,"Basketball, shooting baskets"
+604,34212.5,13,"Basketball, shooting baskets"
+605,25988.5,13,"Basketball, shooting baskets"
+606,25967.25,13,"Basketball, shooting baskets"
+607,24835.75,13,"Basketball, shooting baskets"
+608,34228.0,13,"Basketball, shooting baskets"
+609,34246.0,13,"Basketball, shooting baskets"
+610,494.25,14,"Basketball, wheelchair"
+611,49392.25,14,"Basketball, wheelchair"
+612,49432.75,14,"Basketball, wheelchair"
+613,49398.25,14,"Basketball, wheelchair"
+614,35821.75,14,"Basketball, wheelchair"
+615,49386.25,14,"Basketball, wheelchair"
+616,37478.25,14,"Basketball, wheelchair"
+617,49417.0,14,"Basketball, wheelchair"
+618,35766.25,14,"Basketball, wheelchair"
+619,35825.0,14,"Basketball, wheelchair"
+620,608.5,161,"Running, training, pushing wheelchair"
+621,50239.0,161,"Running, training, pushing wheelchair"
+622,60840.25,161,"Running, training, pushing wheelchair"
+623,44092.0,161,"Running, training, pushing wheelchair"
+624,60806.0,161,"Running, training, pushing wheelchair"
+625,46124.5,161,"Running, training, pushing wheelchair"
+626,60858.25,161,"Running, training, pushing wheelchair"
+627,60836.75,161,"Running, training, pushing wheelchair"
+628,44087.5,161,"Running, training, pushing wheelchair"
+629,60882.25,161,"Running, training, pushing wheelchair"
+630,190.25,16,Billiards
+631,19013.75,16,Billiards
+632,19006.5,16,Billiards
+633,19061.25,16,Billiards
+634,19030.0,16,Billiards
+635,13802.75,16,Billiards
+636,19031.5,16,Billiards
+637,19030.5,16,Billiards
+638,18970.5,16,Billiards
+639,19027.25,16,Billiards
+640,228.0,19,Bowling
+641,22816.25,19,Bowling
+642,22842.25,19,Bowling
+643,22766.25,19,Bowling
+644,18855.0,19,Bowling
+645,22819.25,19,Bowling
+646,22772.75,19,Bowling
+647,22785.75,19,Bowling
+648,18806.5,19,Bowling
+649,22821.75,19,Bowling
+650,912.5,20,"Boxing, in ring"
+651,44043.5,20,"Boxing, in ring"
+652,75343.25,20,"Boxing, in ring"
+653,91200.5,20,"Boxing, in ring"
+654,91236.0,20,"Boxing, in ring"
+655,72283.5,20,"Boxing, in ring"
+656,66135.5,20,"Boxing, in ring"
+657,75291.5,20,"Boxing, in ring"
+658,91240.0,20,"Boxing, in ring"
+659,91282.25,20,"Boxing, in ring"
+660,456.0,21,"Boxing, punching bag"
+661,45562.0,21,"Boxing, punching bag"
+662,33078.75,21,"Boxing, punching bag"
+663,45627.75,21,"Boxing, punching bag"
+664,45652.25,21,"Boxing, punching bag"
+665,23569.0,21,"Boxing, punching bag"
+666,33029.75,21,"Boxing, punching bag"
+667,45576.25,21,"Boxing, punching bag"
+668,45554.75,21,"Boxing, punching bag"
+669,45575.5,21,"Boxing, punching bag"
+670,684.25,22,"Boxing, sparring"
+671,68417.0,22,"Boxing, sparring"
+672,68456.25,22,"Boxing, sparring"
+673,68410.25,22,"Boxing, sparring"
+674,68436.75,22,"Boxing, sparring"
+675,68418.0,22,"Boxing, sparring"
+676,33047.75,22,"Boxing, sparring"
+677,54126.0,22,"Boxing, sparring"
+678,68407.5,22,"Boxing, sparring"
+679,68406.0,22,"Boxing, sparring"
+680,304.0,45,"Coaching: football, basketball, soccer…"
+681,30388.0,45,"Coaching: football, basketball, soccer…"
+682,24041.75,45,"Coaching: football, basketball, soccer…"
+683,30384.0,45,"Coaching: football, basketball, soccer…"
+684,24062.75,45,"Coaching: football, basketball, soccer…"
+685,30375.75,45,"Coaching: football, basketball, soccer…"
+686,25063.0,45,"Coaching: football, basketball, soccer…"
+687,23068.75,45,"Coaching: football, basketball, soccer…"
+688,30362.75,45,"Coaching: football, basketball, soccer…"
+689,30396.0,45,"Coaching: football, basketball, soccer…"
+690,380.25,47,"Cricket (batting, bowling)"
+691,30095.25,47,"Cricket (batting, bowling)"
+692,38032.25,47,"Cricket (batting, bowling)"
+693,27554.25,47,"Cricket (batting, bowling)"
+694,37973.25,47,"Cricket (batting, bowling)"
+695,28794.75,47,"Cricket (batting, bowling)"
+696,38044.25,47,"Cricket (batting, bowling)"
+697,38032.0,47,"Cricket (batting, bowling)"
+698,37968.0,47,"Cricket (batting, bowling)"
+699,37993.0,47,"Cricket (batting, bowling)"
+700,190.25,48,Croquet
+701,19006.0,48,Croquet
+702,18976.75,48,Croquet
+703,15114.75,48,Croquet
+704,19011.25,48,Croquet
+705,19043.5,48,Croquet
+706,13752.5,48,Croquet
+707,19056.5,48,Croquet
+708,19061.25,48,Croquet
+709,19042.75,48,Croquet
+710,304.0,54,Curling
+711,30418.75,54,Curling
+712,25057.0,54,Curling
+713,30319.5,54,Curling
+714,24080.75,54,Curling
+715,30414.0,54,Curling
+716,30337.5,54,Curling
+717,30418.5,54,Curling
+718,30382.5,54,Curling
+719,30352.5,54,Curling
+720,190.25,62,Darts (wall or lawn)
+721,10470.75,62,Darts (wall or lawn)
+722,18997.25,62,Darts (wall or lawn)
+723,19025.75,62,Darts (wall or lawn)
+724,19029.5,62,Darts (wall or lawn)
+725,19068.75,62,Darts (wall or lawn)
+726,19053.75,62,Darts (wall or lawn)
+727,15044.75,62,Darts (wall or lawn)
+728,19052.5,62,Darts (wall or lawn)
+729,19020.5,62,Darts (wall or lawn)
+730,456.0,66,Fencing
+731,45587.0,66,Fencing
+732,36062.5,66,Fencing
+733,45613.0,66,Fencing
+734,45595.0,66,Fencing
+735,34553.75,66,Fencing
+736,36064.5,66,Fencing
+737,37612.0,66,Fencing
+738,45530.5,66,Fencing
+739,45611.25,66,Fencing
+740,684.25,68,"Football, competitive"
+741,68399.75,68,"Football, competitive"
+742,68381.25,68,"Football, competitive"
+743,68398.25,68,"Football, competitive"
+744,68440.75,68,"Football, competitive"
+745,68421.75,68,"Football, competitive"
+746,68388.25,68,"Football, competitive"
+747,68426.25,68,"Football, competitive"
+748,42261.25,68,"Football, competitive"
+749,68415.5,68,"Football, competitive"
+750,608.5,69,"Football, touch, flag, general"
+751,50224.75,69,"Football, touch, flag, general"
+752,60909.25,69,"Football, touch, flag, general"
+753,50223.25,69,"Football, touch, flag, general"
+754,60887.5,69,"Football, touch, flag, general"
+755,48181.5,69,"Football, touch, flag, general"
+756,60833.25,69,"Football, touch, flag, general"
+757,44108.75,69,"Football, touch, flag, general"
+758,44093.0,69,"Football, touch, flag, general"
+759,60803.0,69,"Football, touch, flag, general"
+760,190.25,67,"Football or baseball, playing catch"
+761,19018.25,67,"Football or baseball, playing catch"
+762,18998.25,67,"Football or baseball, playing catch"
+763,11749.0,67,"Football or baseball, playing catch"
+764,13792.25,67,"Football or baseball, playing catch"
+765,14434.75,67,"Football or baseball, playing catch"
+766,19072.75,67,"Football or baseball, playing catch"
+767,18992.0,67,"Football or baseball, playing catch"
+768,18975.75,67,"Football or baseball, playing catch"
+769,13762.25,67,"Football or baseball, playing catch"
+770,228.0,70,"Frisbee playing, general"
+771,16537.25,70,"Frisbee playing, general"
+772,22783.5,70,"Frisbee playing, general"
+773,17316.25,70,"Frisbee playing, general"
+774,22867.75,70,"Frisbee playing, general"
+775,18833.75,70,"Frisbee playing, general"
+776,22782.0,70,"Frisbee playing, general"
+777,22806.0,70,"Frisbee playing, general"
+778,22768.25,70,"Frisbee playing, general"
+779,16482.25,70,"Frisbee playing, general"
+780,608.5,71,"Frisbee, ultimate frisbee"
+781,60819.0,71,"Frisbee, ultimate frisbee"
+782,60801.5,71,"Frisbee, ultimate frisbee"
+783,44086.5,71,"Frisbee, ultimate frisbee"
+784,60838.0,71,"Frisbee, ultimate frisbee"
+785,48179.25,71,"Frisbee, ultimate frisbee"
+786,33495.5,71,"Frisbee, ultimate frisbee"
+787,60827.0,71,"Frisbee, ultimate frisbee"
+788,50251.5,71,"Frisbee, ultimate frisbee"
+789,60891.25,71,"Frisbee, ultimate frisbee"
+790,342.5,76,"Golf, general"
+791,34268.5,76,"Golf, general"
+792,28231.5,76,"Golf, general"
+793,18822.5,76,"Golf, general"
+794,34252.25,76,"Golf, general"
+795,34198.25,76,"Golf, general"
+796,34252.75,76,"Golf, general"
+797,34234.5,76,"Golf, general"
+798,34255.25,76,"Golf, general"
+799,34209.75,76,"Golf, general"
+800,342.5,79,"Golf, walking and carrying clubs"
+801,18842.25,79,"Golf, walking and carrying clubs"
+802,34197.75,79,"Golf, walking and carrying clubs"
+803,27084.25,79,"Golf, walking and carrying clubs"
+804,34258.25,79,"Golf, walking and carrying clubs"
+805,34279.0,79,"Golf, walking and carrying clubs"
+806,28292.5,79,"Golf, walking and carrying clubs"
+807,34270.0,79,"Golf, walking and carrying clubs"
+808,34260.5,79,"Golf, walking and carrying clubs"
+809,18840.0,79,"Golf, walking and carrying clubs"
+810,228.0,75,"Golf, driving range"
+811,22820.0,75,"Golf, driving range"
+812,17279.5,75,"Golf, driving range"
+813,17306.5,75,"Golf, driving range"
+814,22848.0,75,"Golf, driving range"
+815,22783.0,75,"Golf, driving range"
+816,18101.5,75,"Golf, driving range"
+817,22817.25,75,"Golf, driving range"
+818,18871.25,75,"Golf, driving range"
+819,17287.25,75,"Golf, driving range"
+820,228.0,77,"Golf, miniature golf"
+821,22772.25,77,"Golf, miniature golf"
+822,22867.5,77,"Golf, miniature golf"
+823,22840.75,77,"Golf, miniature golf"
+824,22772.75,77,"Golf, miniature golf"
+825,22776.25,77,"Golf, miniature golf"
+826,22822.25,77,"Golf, miniature golf"
+827,18067.25,77,"Golf, miniature golf"
+828,18079.5,77,"Golf, miniature golf"
+829,22793.25,77,"Golf, miniature golf"
+830,327.0,80,"Golf, walking and pulling clubs"
+831,23665.0,80,"Golf, walking and pulling clubs"
+832,32755.75,80,"Golf, walking and pulling clubs"
+833,24800.5,80,"Golf, walking and pulling clubs"
+834,32708.75,80,"Golf, walking and pulling clubs"
+835,32637.5,80,"Golf, walking and pulling clubs"
+836,25863.0,80,"Golf, walking and pulling clubs"
+837,32721.25,80,"Golf, walking and pulling clubs"
+838,32711.5,80,"Golf, walking and pulling clubs"
+839,32712.25,80,"Golf, walking and pulling clubs"
+840,266.25,78,"Golf, using power cart"
+841,19326.25,78,"Golf, using power cart"
+842,26627.25,78,"Golf, using power cart"
+843,26638.0,78,"Golf, using power cart"
+844,26626.25,78,"Golf, using power cart"
+845,26657.75,78,"Golf, using power cart"
+846,26661.5,78,"Golf, using power cart"
+847,26640.5,78,"Golf, using power cart"
+848,26600.5,78,"Golf, using power cart"
+849,20169.25,78,"Golf, using power cart"
+850,304.0,81,Gymnastics
+851,30404.0,81,Gymnastics
+852,30406.0,81,Gymnastics
+853,25085.0,81,Gymnastics
+854,22015.5,81,Gymnastics
+855,30398.0,81,Gymnastics
+856,30393.75,81,Gymnastics
+857,30334.75,81,Gymnastics
+858,30415.5,81,Gymnastics
+859,30365.75,81,Gymnastics
+860,304.0,82,Hacky sack
+861,30372.0,82,Hacky sack
+862,30386.25,82,Hacky sack
+863,30392.25,82,Hacky sack
+864,30373.25,82,Hacky sack
+865,30411.5,82,Hacky sack
+866,15695.0,82,Hacky sack
+867,23091.5,82,Hacky sack
+868,30358.0,82,Hacky sack
+869,30401.0,82,Hacky sack
+870,912.5,83,Handball
+871,91260.25,83,Handball
+872,91214.25,83,Handball
+873,75303.25,83,Handball
+874,72242.0,83,Handball
+875,66133.25,83,Handball
+876,75353.0,83,Handball
+877,91278.5,83,Handball
+878,69175.0,83,Handball
+879,91242.25,83,Handball
+880,608.5,84,"Handball, team"
+881,60871.75,84,"Handball, team"
+882,60865.25,84,"Handball, team"
+883,46113.75,84,"Handball, team"
+884,46115.75,84,"Handball, team"
+885,60802.75,84,"Handball, team"
+886,60838.25,84,"Handball, team"
+887,44035.25,84,"Handball, team"
+888,60840.5,84,"Handball, team"
+889,60871.25,84,"Handball, team"
+890,608.5,87,"Hockey, field hockey"
+891,60851.25,87,"Hockey, field hockey"
+892,60874.75,87,"Hockey, field hockey"
+893,60860.5,87,"Hockey, field hockey"
+894,60886.75,87,"Hockey, field hockey"
+895,48238.25,87,"Hockey, field hockey"
+896,60893.0,87,"Hockey, field hockey"
+897,60792.5,87,"Hockey, field hockey"
+898,33500.25,87,"Hockey, field hockey"
+899,60814.5,87,"Hockey, field hockey"
+900,608.5,88,"Hockey, ice hockey"
+901,35516.25,88,"Hockey, ice hockey"
+902,60865.5,88,"Hockey, ice hockey"
+903,60808.75,88,"Hockey, ice hockey"
+904,60840.25,88,"Hockey, ice hockey"
+905,60916.25,88,"Hockey, ice hockey"
+906,50227.25,88,"Hockey, ice hockey"
+907,60796.0,88,"Hockey, ice hockey"
+908,50228.25,88,"Hockey, ice hockey"
+909,50221.5,88,"Hockey, ice hockey"
+910,304.0,134,"Riding a horse, general"
+911,30412.75,134,"Riding a horse, general"
+912,30398.0,134,"Riding a horse, general"
+913,30398.5,134,"Riding a horse, general"
+914,24063.0,134,"Riding a horse, general"
+915,30364.75,134,"Riding a horse, general"
+916,30409.25,134,"Riding a horse, general"
+917,30382.75,134,"Riding a horse, general"
+918,30354.0,134,"Riding a horse, general"
+919,23012.0,134,"Riding a horse, general"
+920,266.25,89,"Horesback riding, saddling horse"
+921,26614.5,89,"Horesback riding, saddling horse"
+922,26617.75,89,"Horesback riding, saddling horse"
+923,26616.5,89,"Horesback riding, saddling horse"
+924,26540.5,89,"Horesback riding, saddling horse"
+925,26628.0,89,"Horesback riding, saddling horse"
+926,19326.25,89,"Horesback riding, saddling horse"
+927,21118.75,89,"Horesback riding, saddling horse"
+928,21984.0,89,"Horesback riding, saddling horse"
+929,26612.75,89,"Horesback riding, saddling horse"
+930,266.25,92,"Horseback riding, grooming horse"
+931,26636.5,92,"Horseback riding, grooming horse"
+932,19276.0,92,"Horseback riding, grooming horse"
+933,26581.0,92,"Horseback riding, grooming horse"
+934,26617.5,92,"Horseback riding, grooming horse"
+935,26641.0,92,"Horseback riding, grooming horse"
+936,26585.0,92,"Horseback riding, grooming horse"
+937,26646.75,92,"Horseback riding, grooming horse"
+938,26636.0,92,"Horseback riding, grooming horse"
+939,19325.0,92,"Horseback riding, grooming horse"
+940,494.25,93,"Horseback riding, trotting"
+941,49378.25,93,"Horseback riding, trotting"
+942,40778.25,93,"Horseback riding, trotting"
+943,49459.25,93,"Horseback riding, trotting"
+944,49421.0,93,"Horseback riding, trotting"
+945,49417.75,93,"Horseback riding, trotting"
+946,37503.75,93,"Horseback riding, trotting"
+947,37463.25,93,"Horseback riding, trotting"
+948,49474.75,93,"Horseback riding, trotting"
+949,37509.75,93,"Horseback riding, trotting"
+950,190.25,94,"Horseback riding, walking"
+951,19033.25,94,"Horseback riding, walking"
+952,18983.75,94,"Horseback riding, walking"
+953,18992.0,94,"Horseback riding, walking"
+954,19046.25,94,"Horseback riding, walking"
+955,13781.75,94,"Horseback riding, walking"
+956,9841.5,94,"Horseback riding, walking"
+957,19061.75,94,"Horseback riding, walking"
+958,19050.0,94,"Horseback riding, walking"
+959,18972.5,94,"Horseback riding, walking"
+960,608.5,91,"Horse racing, galloping"
+961,60853.25,91,"Horse racing, galloping"
+962,60878.0,91,"Horse racing, galloping"
+963,60828.75,91,"Horse racing, galloping"
+964,48130.75,91,"Horse racing, galloping"
+965,60892.75,91,"Horse racing, galloping"
+966,60834.75,91,"Horse racing, galloping"
+967,60838.5,91,"Horse racing, galloping"
+968,60811.0,91,"Horse racing, galloping"
+969,60869.0,91,"Horse racing, galloping"
+970,456.0,90,"Horse grooming, moderate"
+971,45538.0,90,"Horse grooming, moderate"
+972,45598.25,90,"Horse grooming, moderate"
+973,45651.25,90,"Horse grooming, moderate"
+974,36111.5,90,"Horse grooming, moderate"
+975,34575.75,90,"Horse grooming, moderate"
+976,45602.75,90,"Horse grooming, moderate"
+977,37674.75,90,"Horse grooming, moderate"
+978,45615.5,90,"Horse grooming, moderate"
+979,45543.25,90,"Horse grooming, moderate"
+980,228.0,95,Horseshoe pitching
+981,22853.5,95,Horseshoe pitching
+982,22802.25,95,Horseshoe pitching
+983,22813.0,95,Horseshoe pitching
+984,12522.75,95,Horseshoe pitching
+985,22779.75,95,Horseshoe pitching
+986,22763.75,95,Horseshoe pitching
+987,22740.5,95,Horseshoe pitching
+988,22836.75,95,Horseshoe pitching
+989,16535.0,95,Horseshoe pitching
+990,912.5,100,Jai alai
+991,91280.5,100,Jai alai
+992,91231.75,100,Jai alai
+993,75322.0,100,Jai alai
+994,91273.0,100,Jai alai
+995,91222.75,100,Jai alai
+996,75345.75,100,Jai alai
+997,69143.75,100,Jai alai
+998,91236.25,100,Jai alai
+999,91266.75,100,Jai alai
+1000,760.5,112,"Martial arts, judo, karate, jujitsu"
+1001,76076.75,112,"Martial arts, judo, karate, jujitsu"
+1002,76048.5,112,"Martial arts, judo, karate, jujitsu"
+1003,76037.5,112,"Martial arts, judo, karate, jujitsu"
+1004,60245.5,112,"Martial arts, judo, karate, jujitsu"
+1005,57672.0,112,"Martial arts, judo, karate, jujitsu"
+1006,76021.25,112,"Martial arts, judo, karate, jujitsu"
+1007,62769.5,112,"Martial arts, judo, karate, jujitsu"
+1008,76037.5,112,"Martial arts, judo, karate, jujitsu"
+1009,76107.0,112,"Martial arts, judo, karate, jujitsu"
+1010,760.5,113,"Martial arts, kick boxing"
+1011,76004.0,113,"Martial arts, kick boxing"
+1012,76089.0,113,"Martial arts, kick boxing"
+1013,46959.75,113,"Martial arts, kick boxing"
+1014,76037.0,113,"Martial arts, kick boxing"
+1015,60228.25,113,"Martial arts, kick boxing"
+1016,55101.5,113,"Martial arts, kick boxing"
+1017,36716.5,113,"Martial arts, kick boxing"
+1018,57650.25,113,"Martial arts, kick boxing"
+1019,76000.25,113,"Martial arts, kick boxing"
+1020,760.5,114,"Martial arts, tae kwan do"
+1021,76047.5,114,"Martial arts, tae kwan do"
+1022,60240.5,114,"Martial arts, tae kwan do"
+1023,76048.75,114,"Martial arts, tae kwan do"
+1024,76064.75,114,"Martial arts, tae kwan do"
+1025,76105.5,114,"Martial arts, tae kwan do"
+1026,62807.5,114,"Martial arts, tae kwan do"
+1027,76014.5,114,"Martial arts, tae kwan do"
+1028,76101.75,114,"Martial arts, tae kwan do"
+1029,76071.0,114,"Martial arts, tae kwan do"
+1030,760.5,108,Krav maga training
+1031,76025.25,108,Krav maga training
+1032,76076.0,108,Krav maga training
+1033,76070.75,108,Krav maga training
+1034,76026.75,108,Krav maga training
+1035,76014.75,108,Krav maga training
+1036,55098.5,108,Krav maga training
+1037,57683.25,108,Krav maga training
+1038,76024.75,108,Krav maga training
+1039,76014.25,108,Krav maga training
+1040,304.0,102,Juggling
+1041,30354.75,102,Juggling
+1042,30365.0,102,Juggling
+1043,30436.5,102,Juggling
+1044,30428.0,102,Juggling
+1045,30421.75,102,Juggling
+1046,25076.75,102,Juggling
+1047,30436.0,102,Juggling
+1048,30409.0,102,Juggling
+1049,30443.5,102,Juggling
+1050,532.25,107,Kickball
+1051,38601.0,107,Kickball
+1052,42155.0,107,Kickball
+1053,53271.75,107,Kickball
+1054,32813.75,107,Kickball
+1055,42120.0,107,Kickball
+1056,53190.25,107,Kickball
+1057,53229.75,107,Kickball
+1058,53226.5,107,Kickball
+1059,42125.5,107,Kickball
+1060,608.5,109,Lacrosse
+1061,60881.25,109,Lacrosse
+1062,48213.75,109,Lacrosse
+1063,60813.5,109,Lacrosse
+1064,48169.75,109,Lacrosse
+1065,46141.0,109,Lacrosse
+1066,60894.75,109,Lacrosse
+1067,60860.5,109,Lacrosse
+1068,50243.25,109,Lacrosse
+1069,50262.5,109,Lacrosse
+1070,684.25,118,Orienteering
+1071,49581.0,118,Orienteering
+1072,51871.0,118,Orienteering
+1073,68434.25,118,Orienteering
+1074,68400.75,118,Orienteering
+1075,68453.75,118,Orienteering
+1076,49560.25,118,Orienteering
+1077,51852.5,118,Orienteering
+1078,68449.0,118,Orienteering
+1079,68435.25,118,Orienteering
+1080,456.0,123,Playing paddleball
+1081,36094.25,123,Playing paddleball
+1082,45629.75,123,Playing paddleball
+1083,45636.25,123,Playing paddleball
+1084,45569.5,123,Playing paddleball
+1085,45632.0,123,Playing paddleball
+1086,45602.5,123,Playing paddleball
+1087,45622.75,123,Playing paddleball
+1088,45611.75,123,Playing paddleball
+1089,45603.25,123,Playing paddleball
+1090,760.5,120,"Paddleball, competitive"
+1091,76029.75,120,"Paddleball, competitive"
+1092,39265.5,120,"Paddleball, competitive"
+1093,60242.0,120,"Paddleball, competitive"
+1094,76039.25,120,"Paddleball, competitive"
+1095,60157.0,120,"Paddleball, competitive"
+1096,76049.25,120,"Paddleball, competitive"
+1097,76078.0,120,"Paddleball, competitive"
+1098,60205.25,120,"Paddleball, competitive"
+1099,55109.0,120,"Paddleball, competitive"
+1100,608.5,128,Polo
+1101,60831.75,128,Polo
+1102,60845.25,128,Polo
+1103,46159.5,128,Polo
+1104,44083.0,128,Polo
+1105,50240.75,128,Polo
+1106,46151.5,128,Polo
+1107,60866.75,128,Polo
+1108,44049.25,128,Polo
+1109,60833.75,128,Polo
+1110,760.5,132,"Racquetball, competitive"
+1111,62773.0,132,"Racquetball, competitive"
+1112,76064.75,132,"Racquetball, competitive"
+1113,76026.75,132,"Racquetball, competitive"
+1114,76055.0,132,"Racquetball, competitive"
+1115,75986.5,132,"Racquetball, competitive"
+1116,76022.75,132,"Racquetball, competitive"
+1117,76035.25,132,"Racquetball, competitive"
+1118,76064.5,132,"Racquetball, competitive"
+1119,76012.25,132,"Racquetball, competitive"
+1120,532.25,124,Playing racquetball
+1121,40417.0,124,Playing racquetball
+1122,53270.5,124,Playing racquetball
+1123,53203.75,124,Playing racquetball
+1124,53262.5,124,Playing racquetball
+1125,53230.25,124,Playing racquetball
+1126,53208.25,124,Playing racquetball
+1127,53197.5,124,Playing racquetball
+1128,53196.25,124,Playing racquetball
+1129,53215.75,124,Playing racquetball
+1130,836.5,136,"Rock climbing, ascending rock"
+1131,83639.25,136,"Rock climbing, ascending rock"
+1132,60603.75,136,"Rock climbing, ascending rock"
+1133,69076.0,136,"Rock climbing, ascending rock"
+1134,83635.75,136,"Rock climbing, ascending rock"
+1135,40416.25,136,"Rock climbing, ascending rock"
+1136,83625.75,136,"Rock climbing, ascending rock"
+1137,22945.25,136,"Rock climbing, ascending rock"
+1138,83647.0,136,"Rock climbing, ascending rock"
+1139,83716.5,136,"Rock climbing, ascending rock"
+1140,608.5,138,"Rock climbing, rappelling"
+1141,60863.0,138,"Rock climbing, rappelling"
+1142,60861.25,138,"Rock climbing, rappelling"
+1143,60825.25,138,"Rock climbing, rappelling"
+1144,60878.5,138,"Rock climbing, rappelling"
+1145,60787.75,138,"Rock climbing, rappelling"
+1146,44081.75,138,"Rock climbing, rappelling"
+1147,50257.5,138,"Rock climbing, rappelling"
+1148,48161.25,138,"Rock climbing, rappelling"
+1149,60926.0,138,"Rock climbing, rappelling"
+1150,912.5,103,"Jumping rope, fast"
+1151,75341.75,103,"Jumping rope, fast"
+1152,91248.5,103,"Jumping rope, fast"
+1153,91279.5,103,"Jumping rope, fast"
+1154,91261.5,103,"Jumping rope, fast"
+1155,91265.5,103,"Jumping rope, fast"
+1156,53225.25,103,"Jumping rope, fast"
+1157,91295.75,103,"Jumping rope, fast"
+1158,69176.75,103,"Jumping rope, fast"
+1159,91230.0,103,"Jumping rope, fast"
+1160,760.5,104,"Jumping rope, moderate"
+1161,76088.0,104,"Jumping rope, moderate"
+1162,76058.0,104,"Jumping rope, moderate"
+1163,76035.25,104,"Jumping rope, moderate"
+1164,76041.5,104,"Jumping rope, moderate"
+1165,76066.5,104,"Jumping rope, moderate"
+1166,76063.0,104,"Jumping rope, moderate"
+1167,75988.5,104,"Jumping rope, moderate"
+1168,76037.5,104,"Jumping rope, moderate"
+1169,76040.25,104,"Jumping rope, moderate"
+1170,608.5,105,"Jumping rope, slow"
+1171,60842.75,105,"Jumping rope, slow"
+1172,60897.75,105,"Jumping rope, slow"
+1173,48183.75,105,"Jumping rope, slow"
+1174,60848.25,105,"Jumping rope, slow"
+1175,60889.0,105,"Jumping rope, slow"
+1176,60892.25,105,"Jumping rope, slow"
+1177,60917.25,105,"Jumping rope, slow"
+1178,60863.25,105,"Jumping rope, slow"
+1179,48205.5,105,"Jumping rope, slow"
+1180,760.5,145,Rugby
+1181,76027.5,145,Rugby
+1182,76037.25,145,Rugby
+1183,76024.0,145,Rugby
+1184,76071.75,145,Rugby
+1185,41787.5,145,Rugby
+1186,44401.0,145,Rugby
+1187,76023.25,145,Rugby
+1188,76071.75,145,Rugby
+1189,76113.25,145,Rugby
+1190,228.0,165,"Shuffleboard, lawn bowling"
+1191,22799.25,165,"Shuffleboard, lawn bowling"
+1192,17313.5,165,"Shuffleboard, lawn bowling"
+1193,18833.25,165,"Shuffleboard, lawn bowling"
+1194,18025.75,165,"Shuffleboard, lawn bowling"
+1195,22749.75,165,"Shuffleboard, lawn bowling"
+1196,22790.75,165,"Shuffleboard, lawn bowling"
+1197,18832.25,165,"Shuffleboard, lawn bowling"
+1198,16519.0,165,"Shuffleboard, lawn bowling"
+1199,22778.5,165,"Shuffleboard, lawn bowling"
+1200,380.25,167,Skateboarding
+1201,38025.5,167,Skateboarding
+1202,38016.0,167,Skateboarding
+1203,31400.5,167,Skateboarding
+1204,30072.25,167,Skateboarding
+1205,28801.25,167,Skateboarding
+1206,28806.75,167,Skateboarding
+1207,38038.0,167,Skateboarding
+1208,38063.0,167,Skateboarding
+1209,38041.5,167,Skateboarding
+1210,532.25,140,Roller skating
+1211,53213.5,140,Roller skating
+1212,53246.0,140,Roller skating
+1213,43933.75,140,Roller skating
+1214,53212.0,140,Roller skating
+1215,38551.5,140,Roller skating
+1216,53208.0,140,Roller skating
+1217,53240.75,140,Roller skating
+1218,38534.5,140,Roller skating
+1219,53221.75,140,Roller skating
+1220,912.5,139,"Roller blading, in-line skating"
+1221,91262.0,139,"Roller blading, in-line skating"
+1222,75376.75,139,"Roller blading, in-line skating"
+1223,91267.25,139,"Roller blading, in-line skating"
+1224,72291.5,139,"Roller blading, in-line skating"
+1225,50190.25,139,"Roller blading, in-line skating"
+1226,75344.75,139,"Roller blading, in-line skating"
+1227,91295.0,139,"Roller blading, in-line skating"
+1228,44083.0,139,"Roller blading, in-line skating"
+1229,75338.75,139,"Roller blading, in-line skating"
+1230,228.0,174,Sky diving
+1231,17247.0,174,Sky diving
+1232,22790.5,174,Sky diving
+1233,16543.5,174,Sky diving
+1234,22782.0,174,Sky diving
+1235,22787.75,174,Sky diving
+1236,13313.0,174,Sky diving
+1237,22806.25,174,Sky diving
+1238,18785.5,174,Sky diving
+1239,22778.5,174,Sky diving
+1240,760.5,180,"Soccer, competitive"
+1241,76076.5,180,"Soccer, competitive"
+1242,55110.0,180,"Soccer, competitive"
+1243,76025.75,180,"Soccer, competitive"
+1244,62783.5,180,"Soccer, competitive"
+1245,62785.5,180,"Soccer, competitive"
+1246,76068.75,180,"Soccer, competitive"
+1247,76098.0,180,"Soccer, competitive"
+1248,76047.0,180,"Soccer, competitive"
+1249,76101.25,180,"Soccer, competitive"
+1250,532.25,125,Playing soccer
+1251,53249.75,125,Playing soccer
+1252,53229.25,125,Playing soccer
+1253,53170.75,125,Playing soccer
+1254,53203.25,125,Playing soccer
+1255,53248.0,125,Playing soccer
+1256,53185.5,125,Playing soccer
+1257,53211.0,125,Playing soccer
+1258,40303.0,125,Playing soccer
+1259,53187.0,125,Playing soccer
+1260,380.25,181,Softball or baseball
+1261,38078.0,181,Softball or baseball
+1262,31379.75,181,Softball or baseball
+1263,37978.5,181,Softball or baseball
+1264,30094.5,181,Softball or baseball
+1265,37996.5,181,Softball or baseball
+1266,38052.75,181,Softball or baseball
+1267,38026.25,181,Softball or baseball
+1268,30140.75,181,Softball or baseball
+1269,38065.0,181,Softball or baseball
+1270,304.0,182,"Softball, officiating"
+1271,30388.25,182,"Softball, officiating"
+1272,30427.75,182,"Softball, officiating"
+1273,30387.25,182,"Softball, officiating"
+1274,30406.75,182,"Softball, officiating"
+1275,30426.25,182,"Softball, officiating"
+1276,30415.75,182,"Softball, officiating"
+1277,30382.25,182,"Softball, officiating"
+1278,30404.25,182,"Softball, officiating"
+1279,30329.5,182,"Softball, officiating"
+1280,456.0,183,"Softball, pitching"
+1281,45596.25,183,"Softball, pitching"
+1282,45564.75,183,"Softball, pitching"
+1283,37658.0,183,"Softball, pitching"
+1284,45596.5,183,"Softball, pitching"
+1285,45627.25,183,"Softball, pitching"
+1286,45605.5,183,"Softball, pitching"
+1287,45628.75,183,"Softball, pitching"
+1288,45624.75,183,"Softball, pitching"
+1289,36093.25,183,"Softball, pitching"
+1290,912.5,185,Squash
+1291,91219.5,185,Squash
+1292,75362.0,185,Squash
+1293,91253.0,185,Squash
+1294,91234.75,185,Squash
+1295,72251.25,185,Squash
+1296,50188.25,185,Squash
+1297,91273.0,185,Squash
+1298,66138.75,185,Squash
+1299,91235.75,185,Squash
+1300,304.0,205,"Table tennis, ping pong"
+1301,30404.75,205,"Table tennis, ping pong"
+1302,21993.75,205,"Table tennis, ping pong"
+1303,30373.75,205,"Table tennis, ping pong"
+1304,30424.0,205,"Table tennis, ping pong"
+1305,23002.5,205,"Table tennis, ping pong"
+1306,30432.5,205,"Table tennis, ping pong"
+1307,30313.0,205,"Table tennis, ping pong"
+1308,30439.0,205,"Table tennis, ping pong"
+1309,23086.75,205,"Table tennis, ping pong"
+1310,304.0,206,Tai chi
+1311,30416.75,206,Tai chi
+1312,24020.75,206,Tai chi
+1313,30417.5,206,Tai chi
+1314,30405.5,206,Tai chi
+1315,30456.25,206,Tai chi
+1316,30399.5,206,Tai chi
+1317,30401.25,206,Tai chi
+1318,30374.75,206,Tai chi
+1319,30396.5,206,Tai chi
+1320,532.25,126,Playing tennis
+1321,42100.25,126,Playing tennis
+1322,53246.75,126,Playing tennis
+1323,40370.25,126,Playing tennis
+1324,53222.0,126,Playing tennis
+1325,53186.25,126,Playing tennis
+1326,53208.75,126,Playing tennis
+1327,25698.75,126,Playing tennis
+1328,53210.5,126,Playing tennis
+1329,53268.5,126,Playing tennis
+1330,456.0,209,"Tennis, doubles"
+1331,45651.0,209,"Tennis, doubles"
+1332,33042.75,209,"Tennis, doubles"
+1333,45629.5,209,"Tennis, doubles"
+1334,45550.5,209,"Tennis, doubles"
+1335,28148.75,209,"Tennis, doubles"
+1336,45624.5,209,"Tennis, doubles"
+1337,45601.5,209,"Tennis, doubles"
+1338,28164.75,209,"Tennis, doubles"
+1339,45599.5,209,"Tennis, doubles"
+1340,608.5,210,"Tennis, singles"
+1341,46144.25,210,"Tennis, singles"
+1342,60804.5,210,"Tennis, singles"
+1343,60883.5,210,"Tennis, singles"
+1344,60857.5,210,"Tennis, singles"
+1345,48166.0,210,"Tennis, singles"
+1346,60841.75,210,"Tennis, singles"
+1347,60807.5,210,"Tennis, singles"
+1348,50209.25,210,"Tennis, singles"
+1349,60897.0,210,"Tennis, singles"
+1350,266.25,214,Trampoline
+1351,26648.25,214,Trampoline
+1352,26654.5,214,Trampoline
+1353,26670.5,214,Trampoline
+1354,20192.5,214,Trampoline
+1355,26620.5,214,Trampoline
+1356,26628.75,214,Trampoline
+1357,26690.5,214,Trampoline
+1358,26595.25,214,Trampoline
+1359,19297.5,214,Trampoline
+1360,608.5,217,"Volleyball, competitive"
+1361,60821.25,217,"Volleyball, competitive"
+1362,60869.25,217,"Volleyball, competitive"
+1363,60862.25,217,"Volleyball, competitive"
+1364,60840.5,217,"Volleyball, competitive"
+1365,60827.25,217,"Volleyball, competitive"
+1366,60865.75,217,"Volleyball, competitive"
+1367,60846.25,217,"Volleyball, competitive"
+1368,60839.0,217,"Volleyball, competitive"
+1369,60862.75,217,"Volleyball, competitive"
+1370,228.0,127,Playing volleyball
+1371,22853.25,127,Playing volleyball
+1372,22797.25,127,Playing volleyball
+1373,12562.75,127,Playing volleyball
+1374,18042.75,127,Playing volleyball
+1375,22845.5,127,Playing volleyball
+1376,22727.0,127,Playing volleyball
+1377,12528.5,127,Playing volleyball
+1378,16527.0,127,Playing volleyball
+1379,22803.25,127,Playing volleyball
+1380,608.5,216,"Volleyball, beach"
+1381,48200.0,216,"Volleyball, beach"
+1382,60837.75,216,"Volleyball, beach"
+1383,60889.75,216,"Volleyball, beach"
+1384,60908.0,216,"Volleyball, beach"
+1385,60856.5,216,"Volleyball, beach"
+1386,48166.75,216,"Volleyball, beach"
+1387,46167.75,216,"Volleyball, beach"
+1388,50226.5,216,"Volleyball, beach"
+1389,60869.75,216,"Volleyball, beach"
+1390,456.0,247,Wrestling
+1391,36065.75,247,Wrestling
+1392,45561.5,247,Wrestling
+1393,25072.0,247,Wrestling
+1394,45535.5,247,Wrestling
+1395,45585.25,247,Wrestling
+1396,45590.0,247,Wrestling
+1397,45628.5,247,Wrestling
+1398,34549.0,247,Wrestling
+1399,45631.0,247,Wrestling
+1400,532.25,235,Wallyball
+1401,40364.75,235,Wallyball
+1402,40337.25,235,Wallyball
+1403,43942.0,235,Wallyball
+1404,53206.75,235,Wallyball
+1405,53194.75,235,Wallyball
+1406,40349.25,235,Wallyball
+1407,38589.5,235,Wallyball
+1408,40333.25,235,Wallyball
+1409,53232.5,235,Wallyball
+1410,532.25,5,"Backpacking, Hiking with pack"
+1411,53176.25,5,"Backpacking, Hiking with pack"
+1412,53229.5,5,"Backpacking, Hiking with pack"
+1413,53237.75,5,"Backpacking, Hiking with pack"
+1414,53237.0,5,"Backpacking, Hiking with pack"
+1415,53238.75,5,"Backpacking, Hiking with pack"
+1416,53228.75,5,"Backpacking, Hiking with pack"
+1417,53261.75,5,"Backpacking, Hiking with pack"
+1418,53209.25,5,"Backpacking, Hiking with pack"
+1419,43921.5,5,"Backpacking, Hiking with pack"
+1420,266.25,33,"Carrying infant, level ground"
+1421,26660.75,33,"Carrying infant, level ground"
+1422,26636.75,33,"Carrying infant, level ground"
+1423,26593.0,33,"Carrying infant, level ground"
+1424,26647.0,33,"Carrying infant, level ground"
+1425,21075.5,33,"Carrying infant, level ground"
+1426,26639.75,33,"Carrying infant, level ground"
+1427,26630.75,33,"Carrying infant, level ground"
+1428,19280.25,33,"Carrying infant, level ground"
+1429,26622.5,33,"Carrying infant, level ground"
+1430,380.25,34,"Carrying infant, upstairs"
+1431,38041.0,34,"Carrying infant, upstairs"
+1432,38030.5,34,"Carrying infant, upstairs"
+1433,37986.5,34,"Carrying infant, upstairs"
+1434,38054.5,34,"Carrying infant, upstairs"
+1435,31367.75,34,"Carrying infant, upstairs"
+1436,28846.5,34,"Carrying infant, upstairs"
+1437,20933.0,34,"Carrying infant, upstairs"
+1438,23442.25,34,"Carrying infant, upstairs"
+1439,30116.25,34,"Carrying infant, upstairs"
+1440,456.0,30,"Carrying 16 to 24 lbs, upstairs"
+1441,37654.75,30,"Carrying 16 to 24 lbs, upstairs"
+1442,33086.0,30,"Carrying 16 to 24 lbs, upstairs"
+1443,33035.5,30,"Carrying 16 to 24 lbs, upstairs"
+1444,34558.0,30,"Carrying 16 to 24 lbs, upstairs"
+1445,45604.5,30,"Carrying 16 to 24 lbs, upstairs"
+1446,37625.75,30,"Carrying 16 to 24 lbs, upstairs"
+1447,45604.0,30,"Carrying 16 to 24 lbs, upstairs"
+1448,45583.5,30,"Carrying 16 to 24 lbs, upstairs"
+1449,45587.25,30,"Carrying 16 to 24 lbs, upstairs"
+1450,608.5,31,"Carrying 25 to 49 lbs, upstairs"
+1451,50213.25,31,"Carrying 25 to 49 lbs, upstairs"
+1452,60861.25,31,"Carrying 25 to 49 lbs, upstairs"
+1453,60860.0,31,"Carrying 25 to 49 lbs, upstairs"
+1454,50200.0,31,"Carrying 25 to 49 lbs, upstairs"
+1455,50227.0,31,"Carrying 25 to 49 lbs, upstairs"
+1456,48170.25,31,"Carrying 25 to 49 lbs, upstairs"
+1457,60886.75,31,"Carrying 25 to 49 lbs, upstairs"
+1458,46161.0,31,"Carrying 25 to 49 lbs, upstairs"
+1459,44079.25,31,"Carrying 25 to 49 lbs, upstairs"
+1460,213.0,187,"Standing, playing with children, light"
+1461,21237.5,187,"Standing, playing with children, light"
+1462,21311.25,187,"Standing, playing with children, light"
+1463,17570.75,187,"Standing, playing with children, light"
+1464,16160.0,187,"Standing, playing with children, light"
+1465,21232.5,187,"Standing, playing with children, light"
+1466,21295.25,187,"Standing, playing with children, light"
+1467,21282.25,187,"Standing, playing with children, light"
+1468,21299.5,187,"Standing, playing with children, light"
+1469,16859.25,187,"Standing, playing with children, light"
+1470,304.0,219,"Walk/run, playing with children, moderate"
+1471,9368.0,219,"Walk/run, playing with children, moderate"
+1472,18767.0,219,"Walk/run, playing with children, moderate"
+1473,30390.25,219,"Walk/run, playing with children, moderate"
+1474,30430.5,219,"Walk/run, playing with children, moderate"
+1475,23006.75,219,"Walk/run, playing with children, moderate"
+1476,30462.25,219,"Walk/run, playing with children, moderate"
+1477,30374.0,219,"Walk/run, playing with children, moderate"
+1478,30393.0,219,"Walk/run, playing with children, moderate"
+1479,30384.0,219,"Walk/run, playing with children, moderate"
+1480,380.25,220,"Walk/run, playing with children, vigorous"
+1481,38042.75,220,"Walk/run, playing with children, vigorous"
+1482,37986.0,220,"Walk/run, playing with children, vigorous"
+1483,37984.75,220,"Walk/run, playing with children, vigorous"
+1484,38059.25,220,"Walk/run, playing with children, vigorous"
+1485,38048.75,220,"Walk/run, playing with children, vigorous"
+1486,27558.75,220,"Walk/run, playing with children, vigorous"
+1487,28809.5,220,"Walk/run, playing with children, vigorous"
+1488,31354.75,220,"Walk/run, playing with children, vigorous"
+1489,38048.5,220,"Walk/run, playing with children, vigorous"
+1490,228.0,36,Carrying small children
+1491,22795.25,36,Carrying small children
+1492,11017.25,36,Carrying small children
+1493,22771.75,36,Carrying small children
+1494,22752.5,36,Carrying small children
+1495,12514.5,36,Carrying small children
+1496,22788.0,36,Carrying small children
+1497,22790.0,36,Carrying small children
+1498,22803.75,36,Carrying small children
+1499,17245.75,36,Carrying small children
+1500,228.0,110,"Loading, unloading car"
+1501,17279.5,110,"Loading, unloading car"
+1502,16551.0,110,"Loading, unloading car"
+1503,22800.25,110,"Loading, unloading car"
+1504,22805.75,110,"Loading, unloading car"
+1505,18849.0,110,"Loading, unloading car"
+1506,18083.0,110,"Loading, unloading car"
+1507,22781.75,110,"Loading, unloading car"
+1508,22821.0,110,"Loading, unloading car"
+1509,22799.5,110,"Loading, unloading car"
+1510,532.25,44,"Climbing hills, carrying up to 9 lbs"
+1511,53202.75,44,"Climbing hills, carrying up to 9 lbs"
+1512,42123.5,44,"Climbing hills, carrying up to 9 lbs"
+1513,53231.75,44,"Climbing hills, carrying up to 9 lbs"
+1514,42144.0,44,"Climbing hills, carrying up to 9 lbs"
+1515,40349.5,44,"Climbing hills, carrying up to 9 lbs"
+1516,40398.0,44,"Climbing hills, carrying up to 9 lbs"
+1517,53249.5,44,"Climbing hills, carrying up to 9 lbs"
+1518,53196.25,44,"Climbing hills, carrying up to 9 lbs"
+1519,29258.5,44,"Climbing hills, carrying up to 9 lbs"
+1520,570.5,41,"Climbing hills, carrying 10 to 20 lb"
+1521,57063.0,41,"Climbing hills, carrying 10 to 20 lb"
+1522,43257.0,41,"Climbing hills, carrying 10 to 20 lb"
+1523,47100.0,41,"Climbing hills, carrying 10 to 20 lb"
+1524,56998.5,41,"Climbing hills, carrying 10 to 20 lb"
+1525,57062.5,41,"Climbing hills, carrying 10 to 20 lb"
+1526,57075.25,41,"Climbing hills, carrying 10 to 20 lb"
+1527,56992.75,41,"Climbing hills, carrying 10 to 20 lb"
+1528,57020.25,41,"Climbing hills, carrying 10 to 20 lb"
+1529,57049.0,41,"Climbing hills, carrying 10 to 20 lb"
+1530,608.5,42,"Climbing hills, carrying 21 to 42 lb"
+1531,60803.5,42,"Climbing hills, carrying 21 to 42 lb"
+1532,50262.5,42,"Climbing hills, carrying 21 to 42 lb"
+1533,44122.25,42,"Climbing hills, carrying 21 to 42 lb"
+1534,60831.5,42,"Climbing hills, carrying 21 to 42 lb"
+1535,50208.75,42,"Climbing hills, carrying 21 to 42 lb"
+1536,60881.25,42,"Climbing hills, carrying 21 to 42 lb"
+1537,60878.75,42,"Climbing hills, carrying 21 to 42 lb"
+1538,48189.5,42,"Climbing hills, carrying 21 to 42 lb"
+1539,60839.5,42,"Climbing hills, carrying 21 to 42 lb"
+1540,684.25,43,"Climbing hills, carrying over 42 lb"
+1541,68419.5,43,"Climbing hills, carrying over 42 lb"
+1542,68398.0,43,"Climbing hills, carrying over 42 lb"
+1543,68453.0,43,"Climbing hills, carrying over 42 lb"
+1544,68460.25,43,"Climbing hills, carrying over 42 lb"
+1545,68416.0,43,"Climbing hills, carrying over 42 lb"
+1546,68442.75,43,"Climbing hills, carrying over 42 lb"
+1547,56457.0,43,"Climbing hills, carrying over 42 lb"
+1548,68429.5,43,"Climbing hills, carrying over 42 lb"
+1549,68406.0,43,"Climbing hills, carrying over 42 lb"
+1550,228.0,229,Walking downstairs
+1551,22725.0,229,Walking downstairs
+1552,22752.5,229,Walking downstairs
+1553,22811.75,229,Walking downstairs
+1554,22787.75,229,Walking downstairs
+1555,22772.5,229,Walking downstairs
+1556,22800.0,229,Walking downstairs
+1557,18043.5,229,Walking downstairs
+1558,16528.25,229,Walking downstairs
+1559,11797.0,229,Walking downstairs
+1560,456.0,86,"Hiking, cross country"
+1561,45606.25,86,"Hiking, cross country"
+1562,45606.25,86,"Hiking, cross country"
+1563,33006.5,86,"Hiking, cross country"
+1564,34543.5,86,"Hiking, cross country"
+1565,37627.5,86,"Hiking, cross country"
+1566,45560.0,86,"Hiking, cross country"
+1567,45571.5,86,"Hiking, cross country"
+1568,45608.0,86,"Hiking, cross country"
+1569,45578.25,86,"Hiking, cross country"
+1570,190.25,17,Bird watching
+1571,18999.75,17,Bird watching
+1572,15722.5,17,Bird watching
+1573,14413.5,17,Bird watching
+1574,19102.5,17,Bird watching
+1575,19013.0,17,Bird watching
+1576,18988.75,17,Bird watching
+1577,15705.0,17,Bird watching
+1578,13791.0,17,Bird watching
+1579,19040.0,17,Bird watching
+1580,494.25,111,"Marching, rapidly, military"
+1581,35845.5,111,"Marching, rapidly, military"
+1582,49364.75,111,"Marching, rapidly, military"
+1583,49487.75,111,"Marching, rapidly, military"
+1584,49465.75,111,"Marching, rapidly, military"
+1585,49402.75,111,"Marching, rapidly, military"
+1586,39103.5,111,"Marching, rapidly, military"
+1587,49465.75,111,"Marching, rapidly, military"
+1588,35821.75,111,"Marching, rapidly, military"
+1589,35825.5,111,"Marching, rapidly, military"
+1590,380.25,37,"Children's games, hopscotch, dodgeball"
+1591,27597.5,37,"Children's games, hopscotch, dodgeball"
+1592,38025.0,37,"Children's games, hopscotch, dodgeball"
+1593,38000.75,37,"Children's games, hopscotch, dodgeball"
+1594,38002.0,37,"Children's games, hopscotch, dodgeball"
+1595,37995.0,37,"Children's games, hopscotch, dodgeball"
+1596,20900.75,37,"Children's games, hopscotch, dodgeball"
+1597,38001.5,37,"Children's games, hopscotch, dodgeball"
+1598,27524.25,37,"Children's games, hopscotch, dodgeball"
+1599,38011.75,37,"Children's games, hopscotch, dodgeball"
+1600,190.25,130,Pushing stroller or walking with children
+1601,11741.25,130,Pushing stroller or walking with children
+1602,19032.5,130,Pushing stroller or walking with children
+1603,13763.5,130,Pushing stroller or walking with children
+1604,19039.5,130,Pushing stroller or walking with children
+1605,14396.0,130,Pushing stroller or walking with children
+1606,11095.5,130,Pushing stroller or walking with children
+1607,19031.75,130,Pushing stroller or walking with children
+1608,19016.5,130,Pushing stroller or walking with children
+1609,19050.5,130,Pushing stroller or walking with children
+1610,304.0,129,Pushing a wheelchair
+1611,24118.25,129,Pushing a wheelchair
+1612,25111.0,129,Pushing a wheelchair
+1613,16729.0,129,Pushing a wheelchair
+1614,30376.25,129,Pushing a wheelchair
+1615,30365.0,129,Pushing a wheelchair
+1616,30442.0,129,Pushing a wheelchair
+1617,30410.75,129,Pushing a wheelchair
+1618,30448.25,129,Pushing a wheelchair
+1619,21976.25,129,Pushing a wheelchair
+1620,494.25,131,Race walking
+1621,49417.5,131,Race walking
+1622,49437.25,131,Race walking
+1623,49382.0,131,Race walking
+1624,49422.5,131,Race walking
+1625,39111.25,131,Race walking
+1626,49421.25,131,Race walking
+1627,49418.5,131,Race walking
+1628,49396.0,131,Race walking
+1629,49415.25,131,Race walking
+1630,608.5,137,"Rock climbing, mountain climbing"
+1631,46141.5,137,"Rock climbing, mountain climbing"
+1632,60878.75,137,"Rock climbing, mountain climbing"
+1633,60891.5,137,"Rock climbing, mountain climbing"
+1634,46158.0,137,"Rock climbing, mountain climbing"
+1635,50250.25,137,"Rock climbing, mountain climbing"
+1636,48185.25,137,"Rock climbing, mountain climbing"
+1637,60875.25,137,"Rock climbing, mountain climbing"
+1638,60805.75,137,"Rock climbing, mountain climbing"
+1639,48192.75,137,"Rock climbing, mountain climbing"
+1640,380.25,231,Walking using crutches
+1641,37986.75,231,Walking using crutches
+1642,27532.0,231,Walking using crutches
+1643,37983.75,231,Walking using crutches
+1644,27552.25,231,Walking using crutches
+1645,30110.75,231,Walking using crutches
+1646,38011.25,231,Walking using crutches
+1647,38030.75,231,Walking using crutches
+1648,28864.25,231,Walking using crutches
+1649,38017.0,231,Walking using crutches
+1650,228.0,230,Walking the dog
+1651,22796.0,230,Walking the dog
+1652,18841.75,230,Walking the dog
+1653,16574.75,230,Walking the dog
+1654,18049.75,230,Walking the dog
+1655,22811.5,230,Walking the dog
+1656,22843.0,230,Walking the dog
+1657,22810.75,230,Walking the dog
+1658,22752.0,230,Walking the dog
+1659,16541.5,230,Walking the dog
+1660,152.0,234,"Walking, under 2.0 mph, very slow"
+1661,15234.0,234,"Walking, under 2.0 mph, very slow"
+1662,9344.0,234,"Walking, under 2.0 mph, very slow"
+1663,15215.0,234,"Walking, under 2.0 mph, very slow"
+1664,15196.75,234,"Walking, under 2.0 mph, very slow"
+1665,15208.5,234,"Walking, under 2.0 mph, very slow"
+1666,11043.5,234,"Walking, under 2.0 mph, very slow"
+1667,11529.25,234,"Walking, under 2.0 mph, very slow"
+1668,15166.75,234,"Walking, under 2.0 mph, very slow"
+1669,15165.5,234,"Walking, under 2.0 mph, very slow"
+1670,190.25,221,"Walking 2.0 mph, slow"
+1671,13797.25,221,"Walking 2.0 mph, slow"
+1672,14467.25,221,"Walking 2.0 mph, slow"
+1673,19001.25,221,"Walking 2.0 mph, slow"
+1674,14489.75,221,"Walking 2.0 mph, slow"
+1675,19004.75,221,"Walking 2.0 mph, slow"
+1676,19021.0,221,"Walking 2.0 mph, slow"
+1677,19066.25,221,"Walking 2.0 mph, slow"
+1678,19014.5,221,"Walking 2.0 mph, slow"
+1679,14413.25,221,"Walking 2.0 mph, slow"
+1680,228.0,222,Walking 2.5 mph
+1681,22791.25,222,Walking 2.5 mph
+1682,22820.25,222,Walking 2.5 mph
+1683,18070.0,222,Walking 2.5 mph
+1684,22771.5,222,Walking 2.5 mph
+1685,22781.75,222,Walking 2.5 mph
+1686,22758.75,222,Walking 2.5 mph
+1687,22762.0,222,Walking 2.5 mph
+1688,18055.75,222,Walking 2.5 mph
+1689,22806.0,222,Walking 2.5 mph
+1690,251.0,223,"Walking 3.0 mph, moderate"
+1691,19865.75,223,"Walking 3.0 mph, moderate"
+1692,25103.75,223,"Walking 3.0 mph, moderate"
+1693,20728.5,223,"Walking 3.0 mph, moderate"
+1694,18236.5,223,"Walking 3.0 mph, moderate"
+1695,25102.75,223,"Walking 3.0 mph, moderate"
+1696,19046.0,223,"Walking 3.0 mph, moderate"
+1697,25079.25,223,"Walking 3.0 mph, moderate"
+1698,25090.5,223,"Walking 3.0 mph, moderate"
+1699,25055.5,223,"Walking 3.0 mph, moderate"
+1700,289.0,224,"Walking 3.5 mph, brisk pace"
+1701,28925.5,224,"Walking 3.5 mph, brisk pace"
+1702,23843.75,224,"Walking 3.5 mph, brisk pace"
+1703,28888.25,224,"Walking 3.5 mph, brisk pace"
+1704,28949.0,224,"Walking 3.5 mph, brisk pace"
+1705,20919.5,224,"Walking 3.5 mph, brisk pace"
+1706,20911.25,224,"Walking 3.5 mph, brisk pace"
+1707,28907.25,224,"Walking 3.5 mph, brisk pace"
+1708,28872.0,224,"Walking 3.5 mph, brisk pace"
+1709,28930.25,224,"Walking 3.5 mph, brisk pace"
+1710,456.0,225,"Walking 3.5 mph, uphill"
+1711,45603.75,225,"Walking 3.5 mph, uphill"
+1712,45549.5,225,"Walking 3.5 mph, uphill"
+1713,45611.75,225,"Walking 3.5 mph, uphill"
+1714,45568.25,225,"Walking 3.5 mph, uphill"
+1715,37604.25,225,"Walking 3.5 mph, uphill"
+1716,45621.0,225,"Walking 3.5 mph, uphill"
+1717,45576.0,225,"Walking 3.5 mph, uphill"
+1718,33025.75,225,"Walking 3.5 mph, uphill"
+1719,33062.25,225,"Walking 3.5 mph, uphill"
+1720,380.25,226,"Walking 4.0 mph, very brisk"
+1721,38021.0,226,"Walking 4.0 mph, very brisk"
+1722,38091.0,226,"Walking 4.0 mph, very brisk"
+1723,38009.75,226,"Walking 4.0 mph, very brisk"
+1724,31377.75,226,"Walking 4.0 mph, very brisk"
+1725,27576.75,226,"Walking 4.0 mph, very brisk"
+1726,37978.75,226,"Walking 4.0 mph, very brisk"
+1727,31399.75,226,"Walking 4.0 mph, very brisk"
+1728,38009.5,226,"Walking 4.0 mph, very brisk"
+1729,27505.75,226,"Walking 4.0 mph, very brisk"
+1730,479.0,227,Walking 4.5 mph
+1731,47840.75,227,Walking 4.5 mph
+1732,47876.5,227,Walking 4.5 mph
+1733,47899.5,227,Walking 4.5 mph
+1734,36297.25,227,Walking 4.5 mph
+1735,47895.25,227,Walking 4.5 mph
+1736,47874.75,227,Walking 4.5 mph
+1737,36300.5,227,Walking 4.5 mph
+1738,47892.25,227,Walking 4.5 mph
+1739,47899.0,227,Walking 4.5 mph
+1740,608.5,228,Walking 5.0 mph
+1741,60776.0,228,Walking 5.0 mph
+1742,60772.5,228,Walking 5.0 mph
+1743,46120.75,228,Walking 5.0 mph
+1744,46145.5,228,Walking 5.0 mph
+1745,48212.5,228,Walking 5.0 mph
+1746,48164.25,228,Walking 5.0 mph
+1747,29400.75,228,Walking 5.0 mph
+1748,44062.5,228,Walking 5.0 mph
+1749,60823.75,228,Walking 5.0 mph
+1750,190.25,18,"Boating, power, speed boat"
+1751,19028.25,18,"Boating, power, speed boat"
+1752,18970.5,18,"Boating, power, speed boat"
+1753,18998.0,18,"Boating, power, speed boat"
+1754,19059.75,18,"Boating, power, speed boat"
+1755,19091.0,18,"Boating, power, speed boat"
+1756,15659.25,18,"Boating, power, speed boat"
+1757,14487.0,18,"Boating, power, speed boat"
+1758,15060.0,18,"Boating, power, speed boat"
+1759,14454.75,18,"Boating, power, speed boat"
+1760,304.0,25,"Canoeing, camping trip"
+1761,30376.5,25,"Canoeing, camping trip"
+1762,22012.75,25,"Canoeing, camping trip"
+1763,30435.25,25,"Canoeing, camping trip"
+1764,23045.75,25,"Canoeing, camping trip"
+1765,30392.5,25,"Canoeing, camping trip"
+1766,30366.25,25,"Canoeing, camping trip"
+1767,30411.75,25,"Canoeing, camping trip"
+1768,30407.75,25,"Canoeing, camping trip"
+1769,30389.0,25,"Canoeing, camping trip"
+1770,228.0,26,"Canoeing, rowing, light"
+1771,18816.0,26,"Canoeing, rowing, light"
+1772,22838.75,26,"Canoeing, rowing, light"
+1773,22730.25,26,"Canoeing, rowing, light"
+1774,22844.75,26,"Canoeing, rowing, light"
+1775,22786.5,26,"Canoeing, rowing, light"
+1776,22809.5,26,"Canoeing, rowing, light"
+1777,11784.25,26,"Canoeing, rowing, light"
+1778,17284.5,26,"Canoeing, rowing, light"
+1779,22786.0,26,"Canoeing, rowing, light"
+1780,532.25,27,"Canoeing, rowing, moderate"
+1781,53214.25,27,"Canoeing, rowing, moderate"
+1782,53225.0,27,"Canoeing, rowing, moderate"
+1783,32828.0,27,"Canoeing, rowing, moderate"
+1784,38546.25,27,"Canoeing, rowing, moderate"
+1785,38557.75,27,"Canoeing, rowing, moderate"
+1786,43932.5,27,"Canoeing, rowing, moderate"
+1787,53262.25,27,"Canoeing, rowing, moderate"
+1788,53208.5,27,"Canoeing, rowing, moderate"
+1789,43952.0,27,"Canoeing, rowing, moderate"
+1790,912.5,28,"Canoeing, rowing, vigorous"
+1791,91254.25,28,"Canoeing, rowing, vigorous"
+1792,91220.75,28,"Canoeing, rowing, vigorous"
+1793,91258.0,28,"Canoeing, rowing, vigorous"
+1794,69206.0,28,"Canoeing, rowing, vigorous"
+1795,91316.75,28,"Canoeing, rowing, vigorous"
+1796,91239.0,28,"Canoeing, rowing, vigorous"
+1797,91273.75,28,"Canoeing, rowing, vigorous"
+1798,75289.5,28,"Canoeing, rowing, vigorous"
+1799,91229.5,28,"Canoeing, rowing, vigorous"
+1800,912.5,46,"Crew, sculling, rowing, competition"
+1801,91308.5,46,"Crew, sculling, rowing, competition"
+1802,91237.0,46,"Crew, sculling, rowing, competition"
+1803,91214.5,46,"Crew, sculling, rowing, competition"
+1804,53245.25,46,"Crew, sculling, rowing, competition"
+1805,91290.0,46,"Crew, sculling, rowing, competition"
+1806,50179.5,46,"Crew, sculling, rowing, competition"
+1807,91263.0,46,"Crew, sculling, rowing, competition"
+1808,91257.25,46,"Crew, sculling, rowing, competition"
+1809,69157.5,46,"Crew, sculling, rowing, competition"
+1810,380.25,106,Kayaking
+1811,38012.25,106,Kayaking
+1812,28829.0,106,Kayaking
+1813,37994.5,106,Kayaking
+1814,38025.75,106,Kayaking
+1815,37993.75,106,Kayaking
+1816,30103.75,106,Kayaking
+1817,38074.25,106,Kayaking
+1818,31350.5,106,Kayaking
+1819,38065.25,106,Kayaking
+1820,304.0,119,Paddle boat
+1821,25094.5,119,Paddle boat
+1822,22019.25,119,Paddle boat
+1823,22084.0,119,Paddle boat
+1824,30445.75,119,Paddle boat
+1825,22048.0,119,Paddle boat
+1826,23017.5,119,Paddle boat
+1827,30384.75,119,Paddle boat
+1828,23063.5,119,Paddle boat
+1829,30349.5,119,Paddle boat
+1830,228.0,246,"Windsurfing, sailing"
+1831,22752.5,246,"Windsurfing, sailing"
+1832,22818.5,246,"Windsurfing, sailing"
+1833,17283.75,246,"Windsurfing, sailing"
+1834,22799.0,246,"Windsurfing, sailing"
+1835,22852.5,246,"Windsurfing, sailing"
+1836,22803.75,246,"Windsurfing, sailing"
+1837,11021.25,246,"Windsurfing, sailing"
+1838,18834.5,246,"Windsurfing, sailing"
+1839,18073.0,246,"Windsurfing, sailing"
+1840,380.25,162,"Sailing, competition"
+1841,38045.25,162,"Sailing, competition"
+1842,20881.5,162,"Sailing, competition"
+1843,38057.0,162,"Sailing, competition"
+1844,22179.0,162,"Sailing, competition"
+1845,37999.25,162,"Sailing, competition"
+1846,38064.25,162,"Sailing, competition"
+1847,28811.5,162,"Sailing, competition"
+1848,37999.0,162,"Sailing, competition"
+1849,37979.5,162,"Sailing, competition"
+1850,228.0,163,"Sailing, yachting, ocean sailing"
+1851,17282.25,163,"Sailing, yachting, ocean sailing"
+1852,18843.5,163,"Sailing, yachting, ocean sailing"
+1853,22768.5,163,"Sailing, yachting, ocean sailing"
+1854,18838.75,163,"Sailing, yachting, ocean sailing"
+1855,22747.75,163,"Sailing, yachting, ocean sailing"
+1856,14053.5,163,"Sailing, yachting, ocean sailing"
+1857,22755.25,163,"Sailing, yachting, ocean sailing"
+1858,18054.5,163,"Sailing, yachting, ocean sailing"
+1859,22791.75,163,"Sailing, yachting, ocean sailing"
+1860,456.0,170,"Skiing, water skiing"
+1861,45608.25,170,"Skiing, water skiing"
+1862,36136.25,170,"Skiing, water skiing"
+1863,45667.25,170,"Skiing, water skiing"
+1864,21996.25,170,"Skiing, water skiing"
+1865,34574.75,170,"Skiing, water skiing"
+1866,37647.0,170,"Skiing, water skiing"
+1867,45654.75,170,"Skiing, water skiing"
+1868,33025.5,170,"Skiing, water skiing"
+1869,45635.75,170,"Skiing, water skiing"
+1870,532.25,169,Ski mobiling
+1871,53246.25,169,Ski mobiling
+1872,53213.25,169,Ski mobiling
+1873,53248.75,169,Ski mobiling
+1874,53157.5,169,Ski mobiling
+1875,53195.0,169,Ski mobiling
+1876,53245.0,169,Ski mobiling
+1877,53190.0,169,Ski mobiling
+1878,53232.25,169,Ski mobiling
+1879,38566.0,169,Ski mobiling
+1880,1216.75,171,"Skin diving, fast"
+1881,121647.5,171,"Skin diving, fast"
+1882,121658.75,171,"Skin diving, fast"
+1883,92224.25,171,"Skin diving, fast"
+1884,96334.0,171,"Skin diving, fast"
+1885,88191.75,171,"Skin diving, fast"
+1886,92253.75,171,"Skin diving, fast"
+1887,121683.75,171,"Skin diving, fast"
+1888,121654.25,171,"Skin diving, fast"
+1889,121717.75,171,"Skin diving, fast"
+1890,950.75,172,"Skin diving, moderate"
+1891,68907.25,172,"Skin diving, moderate"
+1892,95104.25,172,"Skin diving, moderate"
+1893,95035.25,172,"Skin diving, moderate"
+1894,95063.25,172,"Skin diving, moderate"
+1895,95075.0,172,"Skin diving, moderate"
+1896,95028.75,172,"Skin diving, moderate"
+1897,72097.25,172,"Skin diving, moderate"
+1898,75274.5,172,"Skin diving, moderate"
+1899,95043.25,172,"Skin diving, moderate"
+1900,532.25,173,"Skin diving, scuba diving"
+1901,53187.5,173,"Skin diving, scuba diving"
+1902,42110.25,173,"Skin diving, scuba diving"
+1903,53267.0,173,"Skin diving, scuba diving"
+1904,53242.5,173,"Skin diving, scuba diving"
+1905,53251.5,173,"Skin diving, scuba diving"
+1906,53177.0,173,"Skin diving, scuba diving"
+1907,53220.0,173,"Skin diving, scuba diving"
+1908,53162.75,173,"Skin diving, scuba diving"
+1909,38582.5,173,"Skin diving, scuba diving"
+1910,380.25,176,Snorkeling
+1911,38044.5,176,Snorkeling
+1912,38071.25,176,Snorkeling
+1913,27573.5,176,Snorkeling
+1914,38003.25,176,Snorkeling
+1915,38037.5,176,Snorkeling
+1916,38054.0,176,Snorkeling
+1917,38006.25,176,Snorkeling
+1918,28832.75,176,Snorkeling
+1919,37953.75,176,Snorkeling
+1920,228.0,194,"Surfing, body surfing or board surfing"
+1921,22804.0,194,"Surfing, body surfing or board surfing"
+1922,22815.25,194,"Surfing, body surfing or board surfing"
+1923,22780.75,194,"Surfing, body surfing or board surfing"
+1924,22821.75,194,"Surfing, body surfing or board surfing"
+1925,18051.5,194,"Surfing, body surfing or board surfing"
+1926,22786.5,194,"Surfing, body surfing or board surfing"
+1927,22828.25,194,"Surfing, body surfing or board surfing"
+1928,22812.5,194,"Surfing, body surfing or board surfing"
+1929,22798.0,194,"Surfing, body surfing or board surfing"
+1930,380.25,245,"Whitewater rafting, kayaking, canoeing"
+1931,38045.0,245,"Whitewater rafting, kayaking, canoeing"
+1932,27546.0,245,"Whitewater rafting, kayaking, canoeing"
+1933,38063.25,245,"Whitewater rafting, kayaking, canoeing"
+1934,31395.5,245,"Whitewater rafting, kayaking, canoeing"
+1935,37996.75,245,"Whitewater rafting, kayaking, canoeing"
+1936,28786.75,245,"Whitewater rafting, kayaking, canoeing"
+1937,38048.75,245,"Whitewater rafting, kayaking, canoeing"
+1938,38033.75,245,"Whitewater rafting, kayaking, canoeing"
+1939,37997.25,245,"Whitewater rafting, kayaking, canoeing"
+1940,760.5,198,"Swimming laps, freestyle, fast"
+1941,76034.25,198,"Swimming laps, freestyle, fast"
+1942,76006.75,198,"Swimming laps, freestyle, fast"
+1943,57604.5,198,"Swimming laps, freestyle, fast"
+1944,76067.25,198,"Swimming laps, freestyle, fast"
+1945,76070.5,198,"Swimming laps, freestyle, fast"
+1946,76043.25,198,"Swimming laps, freestyle, fast"
+1947,76009.75,198,"Swimming laps, freestyle, fast"
+1948,55076.75,198,"Swimming laps, freestyle, fast"
+1949,76024.0,198,"Swimming laps, freestyle, fast"
+1950,532.25,199,"Swimming laps, freestyle, slow"
+1951,53198.0,199,"Swimming laps, freestyle, slow"
+1952,53249.5,199,"Swimming laps, freestyle, slow"
+1953,38548.5,199,"Swimming laps, freestyle, slow"
+1954,38589.5,199,"Swimming laps, freestyle, slow"
+1955,38577.75,199,"Swimming laps, freestyle, slow"
+1956,53284.5,199,"Swimming laps, freestyle, slow"
+1957,53178.25,199,"Swimming laps, freestyle, slow"
+1958,53182.0,199,"Swimming laps, freestyle, slow"
+1959,53236.25,199,"Swimming laps, freestyle, slow"
+1960,532.25,195,Swimming backstroke
+1961,53251.75,195,Swimming backstroke
+1962,31102.0,195,Swimming backstroke
+1963,53242.75,195,Swimming backstroke
+1964,53207.0,195,Swimming backstroke
+1965,43926.75,195,Swimming backstroke
+1966,53234.25,195,Swimming backstroke
+1967,53249.5,195,Swimming backstroke
+1968,38566.75,195,Swimming backstroke
+1969,53227.25,195,Swimming backstroke
+1970,760.5,196,Swimming breaststroke
+1971,76104.5,196,Swimming breaststroke
+1972,76026.75,196,Swimming breaststroke
+1973,76008.25,196,Swimming breaststroke
+1974,76053.5,196,Swimming breaststroke
+1975,76074.0,196,Swimming breaststroke
+1976,76039.5,196,Swimming breaststroke
+1977,76073.25,196,Swimming breaststroke
+1978,57674.25,196,Swimming breaststroke
+1979,76059.0,196,Swimming breaststroke
+1980,836.5,197,Swimming butterfly
+1981,83664.0,197,Swimming butterfly
+1982,83650.0,197,Swimming butterfly
+1983,63409.5,197,Swimming butterfly
+1984,63434.25,197,Swimming butterfly
+1985,63426.5,197,Swimming butterfly
+1986,83631.75,197,Swimming butterfly
+1987,83678.75,197,Swimming butterfly
+1988,83651.75,197,Swimming butterfly
+1989,83639.75,197,Swimming butterfly
+1990,456.0,200,"Swimming leisurely, not laps"
+1991,33041.0,200,"Swimming leisurely, not laps"
+1992,45622.5,200,"Swimming leisurely, not laps"
+1993,28127.75,200,"Swimming leisurely, not laps"
+1994,34553.25,200,"Swimming leisurely, not laps"
+1995,45611.0,200,"Swimming leisurely, not laps"
+1996,37657.75,200,"Swimming leisurely, not laps"
+1997,37652.0,200,"Swimming leisurely, not laps"
+1998,45622.75,200,"Swimming leisurely, not laps"
+1999,36090.75,200,"Swimming leisurely, not laps"
+2000,608.5,201,Swimming sidestroke
+2001,29390.75,201,Swimming sidestroke
+2002,60815.25,201,Swimming sidestroke
+2003,60803.25,201,Swimming sidestroke
+2004,60882.5,201,Swimming sidestroke
+2005,50240.5,201,Swimming sidestroke
+2006,20808.25,201,Swimming sidestroke
+2007,60829.5,201,Swimming sidestroke
+2008,60836.0,201,Swimming sidestroke
+2009,46165.0,201,Swimming sidestroke
+2010,608.5,202,Swimming synchronized
+2011,48199.5,202,Swimming synchronized
+2012,60834.75,202,Swimming synchronized
+2013,60842.5,202,Swimming synchronized
+2014,50231.0,202,Swimming synchronized
+2015,60818.0,202,Swimming synchronized
+2016,60819.25,202,Swimming synchronized
+2017,60878.25,202,Swimming synchronized
+2018,60908.0,202,Swimming synchronized
+2019,48192.75,202,Swimming synchronized
+2020,760.5,203,"Swimming, treading water, fast, vigorous"
+2021,76065.25,203,"Swimming, treading water, fast, vigorous"
+2022,76065.25,203,"Swimming, treading water, fast, vigorous"
+2023,62750.5,203,"Swimming, treading water, fast, vigorous"
+2024,62741.75,203,"Swimming, treading water, fast, vigorous"
+2025,76053.0,203,"Swimming, treading water, fast, vigorous"
+2026,57677.5,203,"Swimming, treading water, fast, vigorous"
+2027,76086.25,203,"Swimming, treading water, fast, vigorous"
+2028,62834.25,203,"Swimming, treading water, fast, vigorous"
+2029,76096.25,203,"Swimming, treading water, fast, vigorous"
+2030,304.0,204,"Swimming, treading water, moderate"
+2031,30361.5,204,"Swimming, treading water, moderate"
+2032,30454.75,204,"Swimming, treading water, moderate"
+2033,30365.0,204,"Swimming, treading water, moderate"
+2034,30438.5,204,"Swimming, treading water, moderate"
+2035,30379.0,204,"Swimming, treading water, moderate"
+2036,30420.5,204,"Swimming, treading water, moderate"
+2037,22044.25,204,"Swimming, treading water, moderate"
+2038,30376.5,204,"Swimming, treading water, moderate"
+2039,30400.5,204,"Swimming, treading water, moderate"
+2040,304.0,237,"Water aerobics, water calisthenics"
+2041,30368.5,237,"Water aerobics, water calisthenics"
+2042,30414.5,237,"Water aerobics, water calisthenics"
+2043,30413.0,237,"Water aerobics, water calisthenics"
+2044,23013.75,237,"Water aerobics, water calisthenics"
+2045,24097.25,237,"Water aerobics, water calisthenics"
+2046,30413.75,237,"Water aerobics, water calisthenics"
+2047,30353.0,237,"Water aerobics, water calisthenics"
+2048,30387.5,237,"Water aerobics, water calisthenics"
+2049,30395.5,237,"Water aerobics, water calisthenics"
+2050,760.5,239,Water polo
+2051,76060.0,239,Water polo
+2052,76027.25,239,Water polo
+2053,55106.0,239,Water polo
+2054,55119.25,239,Water polo
+2055,75961.5,239,Water polo
+2056,76057.5,239,Water polo
+2057,62793.25,239,Water polo
+2058,44382.25,239,Water polo
+2059,76051.5,239,Water polo
+2060,228.0,240,Water volleyball
+2061,18798.75,240,Water volleyball
+2062,22763.25,240,Water volleyball
+2063,22781.5,240,Water volleyball
+2064,22771.0,240,Water volleyball
+2065,22754.0,240,Water volleyball
+2066,22840.5,240,Water volleyball
+2067,22820.5,240,Water volleyball
+2068,22832.5,240,Water volleyball
+2069,18851.5,240,Water volleyball
+2070,608.5,238,Water jogging
+2071,46125.75,238,Water jogging
+2072,60902.75,238,Water jogging
+2073,46147.5,238,Water jogging
+2074,50235.75,238,Water jogging
+2075,60811.0,238,Water jogging
+2076,44064.25,238,Water jogging
+2077,60820.75,238,Water jogging
+2078,46134.25,238,Water jogging
+2079,44101.25,238,Water jogging
+2080,228.0,63,"Diving, springboard or platform"
+2081,22795.75,63,"Diving, springboard or platform"
+2082,22771.5,63,"Diving, springboard or platform"
+2083,18054.75,63,"Diving, springboard or platform"
+2084,22789.0,63,"Diving, springboard or platform"
+2085,22767.0,63,"Diving, springboard or platform"
+2086,16531.0,63,"Diving, springboard or platform"
+2087,17313.0,63,"Diving, springboard or platform"
+2088,22803.25,63,"Diving, springboard or platform"
+2089,22794.5,63,"Diving, springboard or platform"
+2090,418.25,96,"Ice skating, < 9 mph"
+2091,41836.75,96,"Ice skating, < 9 mph"
+2092,30311.75,96,"Ice skating, < 9 mph"
+2093,41870.0,96,"Ice skating, < 9 mph"
+2094,33113.25,96,"Ice skating, < 9 mph"
+2095,41816.0,96,"Ice skating, < 9 mph"
+2096,34477.5,96,"Ice skating, < 9 mph"
+2097,41846.75,96,"Ice skating, < 9 mph"
+2098,34494.5,96,"Ice skating, < 9 mph"
+2099,34485.5,96,"Ice skating, < 9 mph"
+2100,532.25,97,"Ice skating, average speed"
+2101,53262.25,97,"Ice skating, average speed"
+2102,53229.5,97,"Ice skating, average speed"
+2103,53271.25,97,"Ice skating, average speed"
+2104,31073.25,97,"Ice skating, average speed"
+2105,53182.0,97,"Ice skating, average speed"
+2106,53232.25,97,"Ice skating, average speed"
+2107,18196.75,97,"Ice skating, average speed"
+2108,53230.75,97,"Ice skating, average speed"
+2109,53245.75,97,"Ice skating, average speed"
+2110,684.25,98,"Ice skating, rapidly"
+2111,68472.5,98,"Ice skating, rapidly"
+2112,42245.0,98,"Ice skating, rapidly"
+2113,68422.0,98,"Ice skating, rapidly"
+2114,68433.75,98,"Ice skating, rapidly"
+2115,68434.5,98,"Ice skating, rapidly"
+2116,68443.0,98,"Ice skating, rapidly"
+2117,68404.0,98,"Ice skating, rapidly"
+2118,68449.75,98,"Ice skating, rapidly"
+2119,49580.75,98,"Ice skating, rapidly"
+2120,1140.75,184,"Speed skating, ice, competitive"
+2121,86455.75,184,"Speed skating, ice, competitive"
+2122,62743.75,184,"Speed skating, ice, competitive"
+2123,114066.25,184,"Speed skating, ice, competitive"
+2124,114058.25,184,"Speed skating, ice, competitive"
+2125,114071.25,184,"Speed skating, ice, competitive"
+2126,86517.5,184,"Speed skating, ice, competitive"
+2127,114084.0,184,"Speed skating, ice, competitive"
+2128,114078.0,184,"Speed skating, ice, competitive"
+2129,86495.75,184,"Speed skating, ice, competitive"
+2130,532.25,53,"Cross country snow skiing, slow"
+2131,53224.0,53,"Cross country snow skiing, slow"
+2132,38571.75,53,"Cross country snow skiing, slow"
+2133,53224.5,53,"Cross country snow skiing, slow"
+2134,53230.5,53,"Cross country snow skiing, slow"
+2135,53202.5,53,"Cross country snow skiing, slow"
+2136,53197.75,53,"Cross country snow skiing, slow"
+2137,53231.5,53,"Cross country snow skiing, slow"
+2138,40301.75,53,"Cross country snow skiing, slow"
+2139,42141.25,53,"Cross country snow skiing, slow"
+2140,608.5,49,"Cross country skiing, moderate"
+2141,48165.75,49,"Cross country skiing, moderate"
+2142,60862.75,49,"Cross country skiing, moderate"
+2143,50229.25,49,"Cross country skiing, moderate"
+2144,60848.0,49,"Cross country skiing, moderate"
+2145,46088.75,49,"Cross country skiing, moderate"
+2146,44076.75,49,"Cross country skiing, moderate"
+2147,50177.75,49,"Cross country skiing, moderate"
+2148,60912.5,49,"Cross country skiing, moderate"
+2149,60911.0,49,"Cross country skiing, moderate"
+2150,684.25,52,"Cross country skiing, vigorous"
+2151,68391.0,52,"Cross country skiing, vigorous"
+2152,68421.25,52,"Cross country skiing, vigorous"
+2153,51857.0,52,"Cross country skiing, vigorous"
+2154,33033.25,52,"Cross country skiing, vigorous"
+2155,68420.25,52,"Cross country skiing, vigorous"
+2156,68373.75,52,"Cross country skiing, vigorous"
+2157,49563.5,52,"Cross country skiing, vigorous"
+2158,68441.75,52,"Cross country skiing, vigorous"
+2159,68433.25,52,"Cross country skiing, vigorous"
+2160,1064.5,50,"Cross country skiing, racing"
+2161,106423.0,50,"Cross country skiing, racing"
+2162,106412.0,50,"Cross country skiing, racing"
+2163,106418.75,50,"Cross country skiing, racing"
+2164,106500.5,50,"Cross country skiing, racing"
+2165,106404.75,50,"Cross country skiing, racing"
+2166,106444.0,50,"Cross country skiing, racing"
+2167,106430.0,50,"Cross country skiing, racing"
+2168,106444.25,50,"Cross country skiing, racing"
+2169,106428.75,50,"Cross country skiing, racing"
+2170,1254.75,51,"Cross country skiing, uphill"
+2171,103533.5,51,"Cross country skiing, uphill"
+2172,125451.5,51,"Cross country skiing, uphill"
+2173,125453.5,51,"Cross country skiing, uphill"
+2174,125434.0,51,"Cross country skiing, uphill"
+2175,99379.75,51,"Cross country skiing, uphill"
+2176,125482.25,51,"Cross country skiing, uphill"
+2177,125543.0,51,"Cross country skiing, uphill"
+2178,125494.25,51,"Cross country skiing, uphill"
+2179,125458.5,51,"Cross country skiing, uphill"
+2180,380.25,178,"Snow skiing, downhill skiing, light"
+2181,30106.0,178,"Snow skiing, downhill skiing, light"
+2182,37995.75,178,"Snow skiing, downhill skiing, light"
+2183,38030.75,178,"Snow skiing, downhill skiing, light"
+2184,38019.75,178,"Snow skiing, downhill skiing, light"
+2185,37974.0,178,"Snow skiing, downhill skiing, light"
+2186,30090.25,178,"Snow skiing, downhill skiing, light"
+2187,28811.5,178,"Snow skiing, downhill skiing, light"
+2188,38005.0,178,"Snow skiing, downhill skiing, light"
+2189,28822.75,178,"Snow skiing, downhill skiing, light"
+2190,456.0,64,"Downhill snow skiing, moderate"
+2191,45654.75,64,"Downhill snow skiing, moderate"
+2192,45598.75,64,"Downhill snow skiing, moderate"
+2193,45567.0,64,"Downhill snow skiing, moderate"
+2194,45642.25,64,"Downhill snow skiing, moderate"
+2195,45625.75,64,"Downhill snow skiing, moderate"
+2196,36099.75,64,"Downhill snow skiing, moderate"
+2197,45630.25,64,"Downhill snow skiing, moderate"
+2198,45606.25,64,"Downhill snow skiing, moderate"
+2199,33035.5,64,"Downhill snow skiing, moderate"
+2200,608.5,65,"Downhill snow skiing, racing"
+2201,60809.5,65,"Downhill snow skiing, racing"
+2202,46121.25,65,"Downhill snow skiing, racing"
+2203,60841.75,65,"Downhill snow skiing, racing"
+2204,60884.0,65,"Downhill snow skiing, racing"
+2205,60800.5,65,"Downhill snow skiing, racing"
+2206,33454.75,65,"Downhill snow skiing, racing"
+2207,60808.25,65,"Downhill snow skiing, racing"
+2208,60841.5,65,"Downhill snow skiing, racing"
+2209,60837.0,65,"Downhill snow skiing, racing"
+2210,532.25,175,"Sledding, tobagganing, luge"
+2211,42093.25,175,"Sledding, tobagganing, luge"
+2212,42085.5,175,"Sledding, tobagganing, luge"
+2213,53227.5,175,"Sledding, tobagganing, luge"
+2214,53205.5,175,"Sledding, tobagganing, luge"
+2215,18192.0,175,"Sledding, tobagganing, luge"
+2216,40320.0,175,"Sledding, tobagganing, luge"
+2217,25697.5,175,"Sledding, tobagganing, luge"
+2218,53214.75,175,"Sledding, tobagganing, luge"
+2219,53184.5,175,"Sledding, tobagganing, luge"
+2220,608.5,177,Snow shoeing
+2221,60898.5,177,Snow shoeing
+2222,60813.5,177,Snow shoeing
+2223,60832.75,177,Snow shoeing
+2224,48171.75,177,Snow shoeing
+2225,60872.25,177,Snow shoeing
+2226,33471.25,177,Snow shoeing
+2227,60853.25,177,Snow shoeing
+2228,60845.75,177,Snow shoeing
+2229,60856.5,177,Snow shoeing
+2230,266.25,179,Snowmobiling
+2231,20194.25,179,Snowmobiling
+2232,20155.0,179,Snowmobiling
+2233,26618.75,179,Snowmobiling
+2234,26647.25,179,Snowmobiling
+2235,21953.5,179,Snowmobiling
+2236,26592.5,179,Snowmobiling
+2237,19300.75,179,Snowmobiling
+2238,21070.75,179,Snowmobiling
+2239,26620.5,179,Snowmobiling
+2240,266.25,74,General housework
+2241,21954.25,74,General housework
+2242,19270.5,74,General housework
+2243,22025.5,74,General housework
+2244,13751.0,74,General housework
+2245,20206.75,74,General housework
+2246,19241.25,74,General housework
+2247,26625.75,74,General housework
+2248,26606.5,74,General housework
+2249,26679.25,74,General housework
+2250,380.25,39,Cleaning gutters
+2251,37990.5,39,Cleaning gutters
+2252,38019.0,39,Cleaning gutters
+2253,38041.0,39,Cleaning gutters
+2254,31367.0,39,Cleaning gutters
+2255,38047.0,39,Cleaning gutters
+2256,38046.0,39,Cleaning gutters
+2257,38048.75,39,Cleaning gutters
+2258,31357.0,39,Cleaning gutters
+2259,28877.5,39,Cleaning gutters
+2260,342.5,121,Painting
+2261,34260.75,121,Painting
+2262,34225.25,121,Painting
+2263,34234.5,121,Painting
+2264,34221.5,121,Painting
+2265,34258.5,121,Painting
+2266,24842.0,121,Painting
+2267,12851.75,121,Painting
+2268,34197.75,121,Painting
+2269,34238.5,121,Painting
+2270,190.25,166,"Sit, playing with animals"
+2271,13786.25,166,"Sit, playing with animals"
+2272,19062.0,166,"Sit, playing with animals"
+2273,19059.0,166,"Sit, playing with animals"
+2274,19011.0,166,"Sit, playing with animals"
+2275,19023.25,166,"Sit, playing with animals"
+2276,14410.5,166,"Sit, playing with animals"
+2277,13763.75,166,"Sit, playing with animals"
+2278,11747.0,166,"Sit, playing with animals"
+2279,13773.5,166,"Sit, playing with animals"
+2280,304.0,218,"Walk / run, playing with animals"
+2281,30465.25,218,"Walk / run, playing with animals"
+2282,25096.75,218,"Walk / run, playing with animals"
+2283,24063.75,218,"Walk / run, playing with animals"
+2284,30410.0,218,"Walk / run, playing with animals"
+2285,30433.25,218,"Walk / run, playing with animals"
+2286,25119.25,218,"Walk / run, playing with animals"
+2287,30395.25,218,"Walk / run, playing with animals"
+2288,30400.75,218,"Walk / run, playing with animals"
+2289,30394.25,218,"Walk / run, playing with animals"
+2290,266.25,15,Bathing dog
+2291,16461.0,15,Bathing dog
+2292,21094.25,15,Bathing dog
+2293,26642.25,15,Bathing dog
+2294,21923.75,15,Bathing dog
+2295,26622.0,15,Bathing dog
+2296,26607.0,15,Bathing dog
+2297,26666.5,15,Bathing dog
+2298,26626.25,15,Bathing dog
+2299,26623.5,15,Bathing dog
+2300,418.25,117,"Mowing lawn, walk, power mower"
+2301,31737.0,117,"Mowing lawn, walk, power mower"
+2302,41773.0,117,"Mowing lawn, walk, power mower"
+2303,41793.0,117,"Mowing lawn, walk, power mower"
+2304,41839.75,117,"Mowing lawn, walk, power mower"
+2305,21567.75,117,"Mowing lawn, walk, power mower"
+2306,31734.5,117,"Mowing lawn, walk, power mower"
+2307,41803.25,117,"Mowing lawn, walk, power mower"
+2308,30256.75,117,"Mowing lawn, walk, power mower"
+2309,31742.0,117,"Mowing lawn, walk, power mower"
+2310,190.25,116,"Mowing lawn, riding mower"
+2311,19002.5,116,"Mowing lawn, riding mower"
+2312,19039.5,116,"Mowing lawn, riding mower"
+2313,19034.25,116,"Mowing lawn, riding mower"
+2314,19018.5,116,"Mowing lawn, riding mower"
+2315,19019.0,116,"Mowing lawn, riding mower"
+2316,19024.5,116,"Mowing lawn, riding mower"
+2317,13745.25,116,"Mowing lawn, riding mower"
+2318,15704.25,116,"Mowing lawn, riding mower"
+2319,9204.25,116,"Mowing lawn, riding mower"
+2320,266.25,233,"Walking, snow blower"
+2321,26620.0,233,"Walking, snow blower"
+2322,26659.25,233,"Walking, snow blower"
+2323,19262.0,233,"Walking, snow blower"
+2324,26626.0,233,"Walking, snow blower"
+2325,26579.75,233,"Walking, snow blower"
+2326,26636.75,233,"Walking, snow blower"
+2327,21937.0,233,"Walking, snow blower"
+2328,26643.25,233,"Walking, snow blower"
+2329,26598.0,233,"Walking, snow blower"
+2330,228.0,135,"Riding, snow blower"
+2331,22780.0,135,"Riding, snow blower"
+2332,22820.25,135,"Riding, snow blower"
+2333,17247.0,135,"Riding, snow blower"
+2334,17269.5,135,"Riding, snow blower"
+2335,22758.5,135,"Riding, snow blower"
+2336,17297.25,135,"Riding, snow blower"
+2337,22822.0,135,"Riding, snow blower"
+2338,17992.75,135,"Riding, snow blower"
+2339,17345.75,135,"Riding, snow blower"
+2340,456.0,164,Shoveling snow by hand
+2341,45612.5,164,Shoveling snow by hand
+2342,37635.25,164,Shoveling snow by hand
+2343,36135.25,164,Shoveling snow by hand
+2344,23566.0,164,Shoveling snow by hand
+2345,36111.25,164,Shoveling snow by hand
+2346,34595.25,164,Shoveling snow by hand
+2347,33014.0,164,Shoveling snow by hand
+2348,45602.5,164,Shoveling snow by hand
+2349,37690.5,164,Shoveling snow by hand
+2350,327.0,133,Raking lawn
+2351,32711.5,133,Raking lawn
+2352,32702.75,133,Raking lawn
+2353,32751.25,133,Raking lawn
+2354,32639.5,133,Raking lawn
+2355,19110.25,133,Raking lawn
+2356,23719.0,133,Raking lawn
+2357,32726.5,133,Raking lawn
+2358,24828.5,133,Raking lawn
+2359,25907.0,133,Raking lawn
+2360,304.0,72,"Gardening, general"
+2361,25131.75,72,"Gardening, general"
+2362,22014.0,72,"Gardening, general"
+2363,25062.25,72,"Gardening, general"
+2364,22047.0,72,"Gardening, general"
+2365,30428.25,72,"Gardening, general"
+2366,25113.25,72,"Gardening, general"
+2367,30375.0,72,"Gardening, general"
+2368,30371.25,72,"Gardening, general"
+2369,23058.5,72,"Gardening, general"
+2370,304.0,7,"Bagging grass, leaves"
+2371,30352.5,7,"Bagging grass, leaves"
+2372,24058.25,7,"Bagging grass, leaves"
+2373,24120.25,7,"Bagging grass, leaves"
+2374,30370.5,7,"Bagging grass, leaves"
+2375,30360.0,7,"Bagging grass, leaves"
+2376,25107.0,7,"Bagging grass, leaves"
+2377,21996.0,7,"Bagging grass, leaves"
+2378,30417.25,7,"Bagging grass, leaves"
+2379,25107.75,7,"Bagging grass, leaves"
+2380,114.5,241,Watering lawn or garden
+2381,11423.75,241,Watering lawn or garden
+2382,6649.0,241,Watering lawn or garden
+2383,9095.75,241,Watering lawn or garden
+2384,11418.25,241,Watering lawn or garden
+2385,11441.75,241,Watering lawn or garden
+2386,11445.25,241,Watering lawn or garden
+2387,11442.5,241,Watering lawn or garden
+2388,11432.25,241,Watering lawn or garden
+2389,9099.0,241,Watering lawn or garden
+2390,342.5,242,"Weeding, cultivating garden"
+2391,34208.25,242,"Weeding, cultivating garden"
+2392,21133.25,242,"Weeding, cultivating garden"
+2393,34231.5,242,"Weeding, cultivating garden"
+2394,34222.25,242,"Weeding, cultivating garden"
+2395,34245.25,242,"Weeding, cultivating garden"
+2396,28285.75,242,"Weeding, cultivating garden"
+2397,34252.0,242,"Weeding, cultivating garden"
+2398,34287.5,242,"Weeding, cultivating garden"
+2399,25937.25,242,"Weeding, cultivating garden"
+2400,266.25,29,"Carpentry, general"
+2401,26597.5,29,"Carpentry, general"
+2402,26617.5,29,"Carpentry, general"
+2403,21120.0,29,"Carpentry, general"
+2404,19295.25,29,"Carpentry, general"
+2405,19252.0,29,"Carpentry, general"
+2406,26602.25,29,"Carpentry, general"
+2407,22022.75,29,"Carpentry, general"
+2408,20201.5,29,"Carpentry, general"
+2409,26659.0,29,"Carpentry, general"
+2410,608.5,32,Carrying heavy loads
+2411,60831.5,32,Carrying heavy loads
+2412,60850.5,32,Carrying heavy loads
+2413,60857.25,32,Carrying heavy loads
+2414,60830.5,32,Carrying heavy loads
+2415,44112.75,32,Carrying heavy loads
+2416,60847.5,32,Carrying heavy loads
+2417,60874.5,32,Carrying heavy loads
+2418,60823.75,32,Carrying heavy loads
+2419,60822.0,32,Carrying heavy loads
+2420,608.5,35,Carrying moderate loads upstairs
+2421,60842.0,35,Carrying moderate loads upstairs
+2422,46158.25,35,Carrying moderate loads upstairs
+2423,60836.75,35,Carrying moderate loads upstairs
+2424,44147.5,35,Carrying moderate loads upstairs
+2425,60843.75,35,Carrying moderate loads upstairs
+2426,35529.75,35,Carrying moderate loads upstairs
+2427,60837.0,35,Carrying moderate loads upstairs
+2428,60804.0,35,Carrying moderate loads upstairs
+2429,60854.25,35,Carrying moderate loads upstairs
+2430,266.25,73,General cleaning
+2431,26632.5,73,General cleaning
+2432,26654.25,73,General cleaning
+2433,26655.25,73,General cleaning
+2434,26611.25,73,General cleaning
+2435,26673.25,73,General cleaning
+2436,12807.25,73,General cleaning
+2437,8214.0,73,General cleaning
+2438,12876.5,73,General cleaning
+2439,21954.5,73,General cleaning
+2440,190.25,40,"Cleaning, dusting"
+2441,13789.25,40,"Cleaning, dusting"
+2442,15707.25,40,"Cleaning, dusting"
+2443,19033.75,40,"Cleaning, dusting"
+2444,15057.75,40,"Cleaning, dusting"
+2445,19013.5,40,"Cleaning, dusting"
+2446,15684.75,40,"Cleaning, dusting"
+2447,18998.5,40,"Cleaning, dusting"
+2448,13803.5,40,"Cleaning, dusting"
+2449,18991.0,40,"Cleaning, dusting"
+2450,228.0,207,Taking out trash
+2451,22812.5,207,Taking out trash
+2452,22788.75,207,Taking out trash
+2453,22832.25,207,Taking out trash
+2454,22788.75,207,Taking out trash
+2455,22787.75,207,Taking out trash
+2456,22784.5,207,Taking out trash
+2457,22811.75,207,Taking out trash
+2458,22829.5,207,Taking out trash
+2459,17314.75,207,Taking out trash
+2460,304.0,232,"Walking, pushing a wheelchair"
+2461,30375.5,232,"Walking, pushing a wheelchair"
+2462,22026.75,232,"Walking, pushing a wheelchair"
+2463,30412.0,232,"Walking, pushing a wheelchair"
+2464,30440.5,232,"Walking, pushing a wheelchair"
+2465,14682.25,232,"Walking, pushing a wheelchair"
+2466,30447.0,232,"Walking, pushing a wheelchair"
+2467,30423.0,232,"Walking, pushing a wheelchair"
+2468,30353.75,232,"Walking, pushing a wheelchair"
+2469,30390.0,232,"Walking, pushing a wheelchair"
+2470,304.0,208,"Teach physical education,exercise class"
+2471,25066.25,208,"Teach physical education,exercise class"
+2472,30363.0,208,"Teach physical education,exercise class"
+2473,30452.5,208,"Teach physical education,exercise class"
+2474,30364.5,208,"Teach physical education,exercise class"
+2475,30410.0,208,"Teach physical education,exercise class"
+2476,18735.25,208,"Teach physical education,exercise class"
+2477,30407.75,208,"Teach physical education,exercise class"
+2478,23030.0,208,"Teach physical education,exercise class"
+2479,30333.25,208,"Teach physical education,exercise class"
